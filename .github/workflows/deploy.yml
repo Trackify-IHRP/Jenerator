@@ -1,0 +1,35 @@
+name: Deploy Azure Functions (Python)
+ 
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+ 
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+ 
+    env:
+      PYTHON_VERSION: "3.12"
+ 
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+ 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+ 
+      - name: Install dependencies (optional local build/test)
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+ 
+      # Deploy using publish profile (server-side build with Oryx)
+      - name: Deploy to Azure Functions
+        uses: azure/functions-action@v1
+        with:
+          app-name: YOUR_FUNCTION_APP_NAME   # <-- Replace once or pass via repo var
+          publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
+          package: '.'
