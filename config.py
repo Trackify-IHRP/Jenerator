@@ -34,12 +34,12 @@
 # --- INPUT FILES ---
 # Use your exact Excel path (supports .xlsx/.xlsm)
 # EXCEL_PATH = r"C:\Users\JumanaHASEEN\Institute for Human Resource Professionals LTD\IHRP-TRACKIFY\Trackify\issue_table.xlsm"
-EXCEL_PATH = r"C:\Users\JumanaHASEEN\Institute for Human Resource Professionals LTD\IHRP - TRACKIFY - Documents\Trackify\issue_table.xlsm"
+EXCEL_PATH = r"C:\Users\JumanaHASEEN\Institute for Human Resource Professionals LTD\IHRP - TRACKIFY - Trackify\issue_table.xlsm"
 
 
 # SHEET NAMES (must match your Excel tabs exactly)
 ISSUES_SHEET   = "Table 1"
-COMMENTS_SHEET = "Table 2"
+COMMENTS_SHEET = "Table 2"  
 
 # COLUMN MAPS (match your headers)
 # For "POI Issues"

@@ -14,7 +14,7 @@ Evidence comments (id • author_role • date • text):
 17156 • unknown • NaT • Updated Secure Browser have been pushed to Production
 17260 • unknown • NaT • Updated Secure Browser has been pushed to Production, will continue to monitor is this issue surfaced again. Closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-2,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -28,7 +28,7 @@ Evidence comments (id • author_role • date • text):
 17261 • unknown • NaT • Updated Secure Browser has been pushed to Production, will continue to monitor is this issue surfaced again. Closing this ticket here
 26806 • unknown • NaT • Testing Webhook once more.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-3,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -42,7 +42,7 @@ Evidence comments (id • author_role • date • text):
 17158 • unknown • NaT • Updated Secure Browser have been pushed to Production
 17262 • unknown • NaT • Updated Secure Browser has been pushed to Production, will continue to monitor is this issue surfaced again. Closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-4,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -55,7 +55,7 @@ Evidence comments (id • author_role • date • text):
 16935 • unknown • NaT • Most of the issues reported to us was caused by candidate having an existing draft application in Prometric. Solution to resolve such issues is to contact Prometric to remove the application manually and inform PPC team to push to Prometric again.
 16950 • unknown • NaT • Closing this ticket as resolution has been shared to PPC team
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-5,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -67,7 +67,7 @@ Context: Due to the new chip being released by Apple, we now need a seperate sec
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-6,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -80,7 +80,7 @@ Evidence comments (id • author_role • date • text):
 17053 • unknown • NaT • New candidate kelvintoh789@hotmail.com has reported that he did not receive the competency email
 17084 • unknown • NaT • PPC email to say that the issue was with the candidate’s email. Will close the ticket for this candidate: kelvintoh789@hotmail.com
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-7,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -92,7 +92,7 @@ Email Threads: Rescheduling Potential - Gladys Goh [For Approval] Re: DC3P-184 -
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-8,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -104,7 +104,7 @@ Email Thread: Reschedule assessment error Date Raised: 26th April Candidate: gar
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-9,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -118,7 +118,7 @@ Evidence comments (id • author_role • date • text):
 17112 • unknown • NaT • DTO scheduled a meeting with relevant department to discuss on the importance of this Change Request. They have discussed to increase the time to 30 mins before calling the Cancellation API
 17672 • unknown • NaT • this ticket will be tracked under
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-11,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -133,7 +133,7 @@ Evidence comments (id • author_role • date • text):
 16828 • unknown • NaT • Chaser sent to Prometric
 16829 • unknown • NaT • Formal report received from Nancy. Root cause due to SSL being expired. Preventive action added. issue closed to be monitored again
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-13,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -153,7 +153,7 @@ Evidence comments (id • author_role • date • text):
 17643 • unknown • NaT • Date Raised: 10/9/2024 Candidate Email: elly-hoo@ogest.com.sg Email Thread: RE: IHRP - Invoice for Paid Application #73198 Context: New candidate has been reported with the same issue.
 17946 • unknown • NaT • Changes have been pushed to Production. Closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-14,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -172,7 +172,7 @@ Evidence comments (id • author_role • date • text):
 16850 • unknown • NaT • Ying Hong asked to update the changes in production but Prometric says that secure browser for M1 chip is still under development work.
 16851 • unknown • NaT • Will ask us to test for M1 chip so they can be deployed together
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-15,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -186,7 +186,7 @@ Evidence comments (id • author_role • date • text):
 16854 • unknown • NaT • Prometric checked the codes, cant find anything wrong
 16855 • unknown • NaT • Chaser sent
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-16,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -201,7 +201,7 @@ Evidence comments (id • author_role • date • text):
 16859 • unknown • NaT • The error was due to multiple slots being created simultaneously and the end time of the first slots is assigned to the other slots too
 16860 • unknown • NaT • changes have been pushed to production
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-17,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -215,7 +215,7 @@ Evidence comments (id • author_role • date • text):
 16868 • unknown • NaT • This was a bug where a candidate selected a slot initially, but changed his mind to choose for another date. However, he did not select a new slot in the new date and proceeded to the payment summary page. The issue: This resulted in the system capturing his initial slot with the latest assessment date By right, candidate should be prompted when he did not select a new slot with the new date Fix deployed in sandbox, pending D&T to check before deploying to Prod
 16869 • unknown • NaT • Validated on sandbox. Ready for deployment
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-18,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -227,7 +227,7 @@ Date raised: 4/3/2024 Candidates email: Aliciatung20@gmail.com Email thread: RE:
 Evidence comments (id • author_role • date • text):
 16870 • unknown • NaT • JG 19/3: no resolution. Need to monitor further in case similar issue happen again. Prometric to provide the incident report.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-19,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -239,7 +239,7 @@ Date raised: 2/3/2024 Candidates email: lyilij.work@gmail.com - pax on 2nd March
 Evidence comments (id • author_role • date • text):
 16872 • unknown • NaT • Root cause: This was due to candidate's set up in their computer where secure browser captured the ""saved"" monitor, hence, the error displayed. A fix has been deployed on 11th march to check if the monitors are active or not.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-20,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -252,7 +252,7 @@ Evidence comments (id • author_role • date • text):
 16873 • unknown • NaT • Amit - One of the tables in the database is missing an entry that is required to assign a test and slot to a candidate after the slot has been selected. The root cause of the issue has not yet been identified.
 16874 • unknown • NaT • no resolution. Need to monitor further in case similar issue happen again. Prometric to provide the incident report.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-21,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -264,7 +264,7 @@ Date raised: 15/1/2024 Context: The timing reflected in the front-end portal and
 Evidence comments (id • author_role • date • text):
 16875 • unknown • NaT • Root Cause – The date In the portal is taking UTC timing. However, on our backend, we have captured the correct date and time in the SGT time zone. This will happen for candidates going through remote assessment. The issue was resolved on 15th January, Monday. No further issues was raised to date.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-23,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -285,7 +285,7 @@ Evidence comments (id • author_role • date • text):
 17015 • unknown • NaT • Will be closing this ticket as Prometric is unable to identify the root cause. will continue to monitor this issue. Suspected root cause: Someone amended the test settings in PROD
 17018 • unknown • NaT • Retriggered the email to candidate and the duration was reflected correctly. Closing the ticket here.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-24,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -305,7 +305,7 @@ Evidence comments (id • author_role • date • text):
 17195 • unknown • NaT • At the same time, we need to check for other candidates who have selected the same options to check if they have encountered issues with their EA. These candidates are: sywu2000@yahoo.com (No application in Prometric) harveersingzz@gmail.com (CA Cert) blackiiejoe@gmail.com (EA Completed) jasperhejingpei@gmail.com (EA Completed) wong_yuk_ting@outlook.com (No EA) goh.ppeii@gmail.com (No Application in Prometric)
 17396 • unknown • NaT • Since there is only 1 impacted candidate, we will be closing the ticket here and will continue to monitor if this error reappear again
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-25,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -317,7 +317,7 @@ The issue was raised on 1 st February, Thursday . Prometric to provide the incid
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-26,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -331,7 +331,7 @@ Evidence comments (id • author_role • date • text):
 16933 • unknown • NaT • The error message ""Test has not been added for this certification"" does not apply for inactive tests. It will only appear when a candidate attempts to register for a group without any registered test.
 16934 • unknown • NaT • Verified with Ying Hong that Prometric's explaination aligns with A&I team's understanding, allowed to close the case.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-27,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -343,7 +343,7 @@ The issue was raised on 13 th February, Tuesday.
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-28,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -355,7 +355,7 @@ The issue was raised on 22 nd February, Thursday . The candidate mentioned that 
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-29,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -367,7 +367,7 @@ Date Raised: 1st March 2024, Friday Candidate’s Email: Aliciatung20@gmail.com 
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-30,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -379,7 +379,7 @@ Date raised: 9/3/2024 Candidate’s email: sarah.sum@profileprint.ai Context: Th
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-31,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -391,7 +391,7 @@ Date raised: 7/3/2024 Context: The issue was raised on 7 March, Thursday. The ke
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-32,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -403,7 +403,7 @@ Date raised: 28/3/2024 Candidate’s email: tammy.tyj@gmail.com Context: During 
 Evidence comments (id • author_role • date • text):
 16947 • unknown • NaT • Verified with PPC team, closing this ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-33,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -417,7 +417,7 @@ Evidence comments (id • author_role • date • text):
 16949 • unknown • NaT • Pending DTO clean-up
 23986 • unknown • NaT • Draft candidate guid deleted on prometric. Requested CCE team to reach out to the candidates to apply for application. Pending investigation on ITG end. Solution: Compare the master list report from both CRM and Prometric and remove all candidates with repeated ID
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-34,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -429,7 +429,7 @@ Date Raised: 15/3/2024 Candidate’s Email: ktyq@live.com , Jacqueline_245@hotma
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-35,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -441,7 +441,7 @@ Date Raised: 10/3/2024 Candidate’s Email: Dimpledr@hotmail.com Email Thread: F
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-36,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -453,7 +453,7 @@ Date Raised: 3/1/2024 Email Thread: Feedback on Prometric e-help Context: The ca
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-37,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -466,7 +466,7 @@ Evidence comments (id • author_role • date • text):
 16951 • unknown • NaT • DTO reverted by asking PPC to remove the special characters in the candidate’s profile and retry.
 16952 • unknown • NaT • Verified with PPC, issue resolved. Closing the ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-38,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -482,7 +482,7 @@ Evidence comments (id • author_role • date • text):
 17666 • unknown • NaT • Reopening the ticket as new candidate has reported the issue. Date Raised: 2/9/2024 Candidate Email: jasmine.phua@visenze.com Email Thread: Fwd: IHRP Certification - Rescheduled Assessment Date #74262 Context: Candidate has applied for 11.30am to 3.30pm slot but her competency assessment email states 7.30am to 7.30am Resolution: Closed by Kah Boon on 9 Sep
 17667 • unknown • NaT • Prometric replied that you need to click on Regenerate Access Code and candidate will receive the correct timing in the email content.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-39,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -494,7 +494,7 @@ Due to various reasons, these candidate’s drafts need to be removed from Prome
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-40,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -509,7 +509,7 @@ Evidence comments (id • author_role • date • text):
 17161 • unknown • NaT • Application has been removed for huitingie.work@gmail.com May inform the candidate to reapply using httan009@suss.edu.sg
 17162 • unknown • NaT • Candidate has successfully applied for her certification. Will close this thread.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-41,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -522,7 +522,7 @@ Evidence comments (id • author_role • date • text):
 17032 • unknown • NaT • DTO replied that it is not possible to merge more than 2 accounts at once. The correct procedure is to merge the 2 unused accounts first before merging it to the main account.
 17033 • unknown • NaT • Case closed
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-42,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -535,7 +535,7 @@ Evidence comments (id • author_role • date • text):
 17082 • unknown • NaT • Candidate’s assessment has been pushed to Prometric.
 17109 • unknown • NaT • Closing this ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-43,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -549,7 +549,7 @@ Evidence comments (id • author_role • date • text):
 17085 • unknown • NaT • DTO suggest that the candidate cancel her draft in both CRM and Prometric. DTO also noted that the the candidate’s assessment is more than 60 days from her application date. SSG’s requirements is that the assessment date needs to be within 60 days of the date of application. Therefore the candidate will have to reschedule her slot.
 17110 • unknown • NaT • DTO replied that this candidate is an PR which is not applicable to non-Singaporean. Closing the ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-44,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -564,7 +564,7 @@ Evidence comments (id • author_role • date • text):
 17086 • unknown • NaT • DTO replied that the candidate assessment is more than 60 days away from the date of application, which was not in SSG’s requirement of 60 days. For the error message, DTO has logged a ticket with SSG to resolve the issue.
 17111 • unknown • NaT • Candidate requested to remove the draft application and DTO informed Prometric. Draft successfully deleted. Closing this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-45,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -578,7 +578,7 @@ Evidence comments (id • author_role • date • text):
 17120 • unknown • NaT • PPC team replied that she candidate has taken the assessment and passed.
 17121 • unknown • NaT • Closing this ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-46,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -601,7 +601,7 @@ Evidence comments (id • author_role • date • text):
 17665 • unknown • NaT • Draft application has been deleted on Prometric
 17720 • unknown • NaT • Will be closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-47,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -614,7 +614,7 @@ Evidence comments (id • author_role • date • text):
 17117 • unknown • NaT • DTO has informed Intelegain about this issue and they are investigating
 17123 • unknown • NaT • DTO replied that the candidate is not eligible for SFC funding as the candidate is a blacklisted candidate. Will be closing the ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-48,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -626,7 +626,7 @@ Date Raised : 21/8/2024 Candidate’s Email : osh_13@hotmail.com Email Thread : 
 Evidence comments (id • author_role • date • text):
 17259 • unknown • NaT • Has pushed the application to Prometric.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-49,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -639,7 +639,7 @@ Evidence comments (id • author_role • date • text):
 17170 • unknown • NaT • Upon investigation, the candidate did not make payment within 5 minutes of the timeframe, hence her application was removed on Prometric side. This issue will be resolved after the new CR that Rachael raised. In the meantime, as the assessment date has past, below are the suggested steps if candidate intends to reschedule her CA assessment: Inform cert team to reschedule her assessment. Once the assessment has been rescheduled, inform finance to regenerate the revised invoice with the new date and share it with the user. For claim id 2003536946, either (1) candidate cancel this claim in MySkillsFuture portal and resubmit a new claim with the revised invoice, or (2), finance cancel the claim in TPG, and candidate resubmit a new one claim with the revised invoice in MySkillsFuture portal. If candidate wish to apply for a new certification level, For claim id 2003536946, either (1) candidate cancel this claim in MySkillsFuture portal or (2), finance cancel the claim in TPG Candidate reapply a new application with her SFC.
 17674 • unknown • NaT • Closing this ticket as no further feedback from BUs
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-50,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -657,7 +657,7 @@ Evidence comments (id • author_role • date • text):
 17968 • unknown • NaT • The candidate most likely started her EA but did not attempt any questions until the timer went off. @Jarren Lee Junbin, kindly close this ticket if there is no update by BUs in the next 3 day. Do send an email to close it off
 17984 • unknown • NaT • Closing this ticket as there is no reply from BU
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-51,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -673,7 +673,7 @@ Evidence comments (id • author_role • date • text):
 17669 • unknown • NaT • Cert team has requested that we remove the draft application in Prometric
 17690 • unknown • NaT • Candidate’s draft has been removed in Production. Will be closing this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-52,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -688,7 +688,7 @@ Evidence comments (id • author_role • date • text):
 17824 • unknown • NaT • Draft application has been deleted for jinious06@gmail.com
 18570 • unknown • NaT • Will be closing this ticket here as draft application has been removed in Prometric and has verified that some of them have successfully applied for an assessment. (The rest is did not apply continue to apply)
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-54,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -705,7 +705,7 @@ Evidence comments (id • author_role • date • text):
 17560 • unknown • NaT • DTO replied that Kindly refer to Ying Hong's response below and inform the candidate that she can retake her paper with waiver. Based on the master list report, she will retake the HR paper.
 17564 • unknown • NaT • Closing this ticket right here. Will monitor this candidate should any issue surface
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-56,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -721,7 +721,7 @@ Evidence comments (id • author_role • date • text):
 17670 • unknown • NaT • Cert team requested that we remove the draft application in Prometric
 17671 • unknown • NaT • Prometric has deleted the draft application in Prometric and we have requested Cert team to retrigger the competency email to the candidate
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-57,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -733,7 +733,7 @@ Due to various reason, these candidates has requested IHRP to update their perso
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-58,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -761,7 +761,7 @@ Evidence comments (id • author_role • date • text):
 17594 • unknown • NaT • Date Raised: 7/9/2024 Candidate’s Email : cindyxchan@gmail.com Email Thread : +6597466380 #74701 Context : Candidate is unable to click on “apply” for certification despite having all the folders and documents.
 17727 • unknown • NaT • Deployment has been done to Production, will be closing this ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-59,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -779,7 +779,7 @@ Evidence comments (id • author_role • date • text):
 18552 • unknown • NaT • Will be closing this ticket here as approval is given to close this ticket for monitoring
 23076 • unknown • NaT • Issue linked to .
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-60,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -798,7 +798,7 @@ Evidence comments (id • author_role • date • text):
 17719 • unknown • NaT • A&I replied that no actions is required on our end.
 17728 • unknown • NaT • Closing this ticket here since no actions is required
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-61,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -816,7 +816,7 @@ Evidence comments (id • author_role • date • text):
 18554 • unknown • NaT • A&I replied that it does not matter as much because the candidate would have to take reassessment as the candidate has failed the HR paper
 18571 • unknown • NaT • Closing this ticket here as candidate will have to take reassessment no matter what
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-62,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -833,7 +833,7 @@ Evidence comments (id • author_role • date • text):
 17972 • unknown • NaT • pending Rachael to confirm that we can close this issue for monitoring
 18553 • unknown • NaT • Will be closing this ticket as approval is given to close this ticket for monitoring
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-63,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -849,7 +849,7 @@ Evidence comments (id • author_role • date • text):
 17638 • unknown • NaT • Prometric replied that this issue will not occurred again once the issue “Next” button disappearing is resolved
 17944 • unknown • NaT • Changes have been pushed to Production. Closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-64,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -864,7 +864,7 @@ Evidence comments (id • author_role • date • text):
 17691 • unknown • NaT • DTO tested in Production that the issue has been resolved by Prometric team. Pending Cert team to validate
 17940 • unknown • NaT • Closing this ticket as cert team has schedule this candidate
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-65,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -880,7 +880,7 @@ Evidence comments (id • author_role • date • text):
 17732 • unknown • NaT • Date Raised: 13/9/2024 Candidate Email: xuanhui_ng@sats.com.sg Email Thread: Missing Application no. 20240700567 in Prometric Context: New candidate has reported the same issue on missing application in Prometric
 18783 • unknown • NaT • Date Raised: 4/11/2024 Candidate Email: charlottetan.jl@gmail.com Email Thread: Re: [IHRP Recertification] Invitation to Participate in Certification Survey #75904 Context: Candidate paid for her assessment but her details was not pushed to Prometric and therefore, she could not sit for her assessment and is asking for a reschedule
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-66,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -895,7 +895,7 @@ Evidence comments (id • author_role • date • text):
 17557 • unknown • NaT • DTO found a candidate in CRM with that has the last 4 digits of the NRIC and also very similar name. The name in CRM is Tian Xin Lynda Leia and this account was created in Feb 2021 using the llowmk@gmail.com . Please verify with her if this is her account previously, use forget password if she cannot remember her password.
 17990 • unknown • NaT • Candidate replied to cert team saying that she is able to login. Will be closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-67,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -912,7 +912,7 @@ Evidence comments (id • author_role • date • text):
 18790 • unknown • NaT • Prometric replied that
 20130 • unknown • NaT • Will be closing this ticket as root cause has been identified and candidate has not came back to us
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-68,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -925,7 +925,7 @@ Evidence comments (id • author_role • date • text):
 17490 • unknown • NaT • DTO replied that this candidate has previously created an account under email: c.teoty@outlook.sg back in 2020. She has entered her NRIC in that old account which was why she is unable to for her current account. DTO request PPC to check with the candidate which account does she want to continue, c.teoty@outlook.sg or her new account c.tyteo@outlook.com
 17991 • unknown • NaT • Will be closing this ticket here as candidate did not get back to us.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-69,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -939,7 +939,7 @@ Evidence comments (id • author_role • date • text):
 17506 • unknown • NaT • Prometric team replied that this user has been deleted as per Benjamin’s request
 17673 • unknown • NaT • This issue needs to be resolved when we do a 1x clean up of all duplicated enrolment id and existing draft in prod
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-70,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -954,7 +954,7 @@ Evidence comments (id • author_role • date • text):
 17688 • unknown • NaT • Prometric team sent a revised RCA report regarding this issue. Prometric team is also requesting the approval for the interim solution of disabling the “Skip Break” button in Production.
 17945 • unknown • NaT • Changes have been pushed to Production. Closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-73,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -969,7 +969,7 @@ Evidence comments (id • author_role • date • text):
 17787 • unknown • NaT • Has informed Prometric on this issue and expected an RCA report and any transcript with the e-help agent if available
 17823 • unknown • NaT • Prometric reverted. No further action required. This is not a support issue
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-74,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -982,7 +982,7 @@ Evidence comments (id • author_role • date • text):
 18582 • unknown • NaT • When Prometric test in production, they use postman to call the API and in this case, the candidate id clashed with the test data which trigger the email template to the candidate. Will wait till the candidate attempt the assessment first before closing the ticket.
 18796 • unknown • NaT • Will be closing this ticket here as we have verified that the candidate has completed her assessment.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-75,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1003,7 +1003,7 @@ Evidence comments (id • author_role • date • text):
 17964 • unknown • NaT • Ready for deployment
 17988 • unknown • NaT • Prometric has deployed it on 30 Sept 2024. Closing this ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-76,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1023,7 +1023,7 @@ Evidence comments (id • author_role • date • text):
 17689 • unknown • NaT • Cert team has requested an estimated turnaround time from SSG while DTO replied that we have informed SSG and will keep Cert team updated on the estimated resolution time.
 17886 • unknown • NaT • Certificate in both UAT and Prod environment has been updated and tested and candidate may now apply for fresh application using SFC via the APIs
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-77,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1037,7 +1037,7 @@ Evidence comments (id • author_role • date • text):
 18580 • unknown • NaT • Will check with Prometric on the root cause.
 19273 • unknown • NaT • Will be closing this ticket as candidate has successfully applied for assessment
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-79,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1056,7 +1056,7 @@ Evidence comments (id • author_role • date • text):
 17932 • unknown • NaT • DTO provided Prometric team with the impacted candidate’s emails.
 17933 • unknown • NaT • Prometric team replied that they have checked but they can’t find any issues about the provided candidate details.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-80,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1076,7 +1076,7 @@ Evidence comments (id • author_role • date • text):
 17969 • unknown • NaT • Hi @Jarren Lee , kindly close this off(not a technical issue) once application has been cancelled in CRM
 19272 • unknown • NaT • Closing this ticket as this application do not need to be cancelled in CRM.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-82,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1090,7 +1090,7 @@ Evidence comments (id • author_role • date • text):
 18343 • unknown • NaT • Prometric replied that the photo id and her face was not matched by the AI which was why she was denied entry to her test
 18346 • unknown • NaT • Closing the ticket here as root cause have been identified. Support issue will be tracked in
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-83,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1107,7 +1107,7 @@ Evidence comments (id • author_role • date • text):
 17887 • unknown • NaT • Prometric has removed the automatic suspension feature in Production.
 17936 • unknown • NaT • Closing this ticket here as fixes has been deployed to Production
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-84,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1126,7 +1126,7 @@ Evidence comments (id • author_role • date • text):
 18034 • unknown • NaT • DTO and Prometric have discussed deployment in the biweekly call and DTO has decided to deploy this in Production environment today as all assessments for today have been completed already. Also asked Prometric how should we address the wrong report shared to the candidate diane.poo@gmail.com.
 18224 • unknown • NaT • Ying Hong has validated that the report generated is correct. Prometric has deployed the fixes in 14 October. Will be closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-85,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1143,7 +1143,7 @@ Evidence comments (id • author_role • date • text):
 17979 • unknown • NaT • Candidate alr certified. For ying hong to check on the candidate report sharan_chaal@hotmail.com
 18532 • unknown • NaT • Will be closing this ticket for monitoring here.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-87,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1164,7 +1164,7 @@ Evidence comments (id • author_role • date • text):
 20131 • unknown • NaT • Prometric has developed the CRON Script but when it is pushing the data back to CRM, it is receiving an error 500 message. We are checking with ITG on the efforts on their end.
 23974 • unknown • NaT • The candidate's assessment outcome has been pushed to CRM and application status has been updated. Candidate's certificate has been generated and sent to her.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-88,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1179,7 +1179,7 @@ Evidence comments (id • author_role • date • text):
 18025 • unknown • NaT • Tested in Sandbox that the issue has been resolved.
 18087 • unknown • NaT • Deployed to Production on 8 Oct. Will be closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-89,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1199,7 +1199,7 @@ Evidence comments (id • author_role • date • text):
 18340 • unknown • NaT • Prometric replied that they are not able to replicate the situation on their end but they have verified from the backend that the candidate performance report is correct.
 20139 • unknown • NaT • Will be closing this ticket for monitoring as Prometric team is unable to identify the root cause. Candidate has submitted a reassessment application and has passed her assessment.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-90,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1212,7 +1212,7 @@ Evidence comments (id • author_role • date • text):
 18089 • unknown • NaT • Nancy reported that they have escalated this issue to the e-help agent management to be more careful in the wordings used
 18090 • unknown • NaT • Will be closing the ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-91,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1224,7 +1224,7 @@ Date Raised: 12/9/2024 Email Thread: [PO-82] Unable to take assessment
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-92,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1238,7 +1238,7 @@ Evidence comments (id • author_role • date • text):
 18035 • unknown • NaT • Prometric explained that the issue was caused by closing the Popup before completing the process. They have also further advised that, as per earlier discussion, if we have opened anything to do some activities, we should close the Popup using the ""X"" button.
 18345 • unknown • NaT • Closing this thread here as root cause have been identified
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-93,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1252,7 +1252,7 @@ Evidence comments (id • author_role • date • text):
 18344 • unknown • NaT • Fixes have been deployed to Production. Currently ITG and DTO are doing some post deployment clean up to ensure that data is correctly stored for each candidate.
 20132 • unknown • NaT • All the rectification plan has been completed in Production. Will be closing this ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-94,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1267,7 +1267,7 @@ Evidence comments (id • author_role • date • text):
 18341 • unknown • NaT • nan
 21222 • unknown • NaT • Application details updated by BU as per instructions, closing this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-95,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1279,7 +1279,7 @@ Date Raised: 7/10/2024 Candidate Email: reiong28@gmail.com Email Thread: [Gentle
 Evidence comments (id • author_role • date • text):
 18252 • unknown • NaT • Candidate has managed to apply for her assessment after refreshing the page. However she is still blocked with another issue that is tracked in Will be closing this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-96,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1291,7 +1291,7 @@ Date Raised: 14 October 2024 Candidate Email: tpgcthomas@gmail.com Email Thread:
 Evidence comments (id • author_role • date • text):
 20140 • unknown • NaT • Prometric has helped to remove the extra draft applications and candidate has successfully paid for his application. Will be closing this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-97,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1307,7 +1307,7 @@ Evidence comments (id • author_role • date • text):
 18583 • unknown • NaT • Prometric has replied that the root cause was because the licenses count has went to 0. Prometric tech team was able to identify the issue immediately but because in IST it was not working hour and everyone was still asleep, no one was able to put in more licenses. Preventive Measures : Prometric team has just put in 100,000 licenses and given Rohit the access to add more licenses. On top of that, they have implemented a warning to let them know should the licenses count is too low.
 18584 • unknown • NaT • Will be closing this ticket here.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-98,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1327,7 +1327,7 @@ Evidence comments (id • author_role • date • text):
 19051 • unknown • NaT • chaser sent to prometric
 20133 • unknown • NaT • Prometric is unable to identify the root cause to this issue, they are requesting we close this ticket for monitoring
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-99,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1344,7 +1344,7 @@ Evidence comments (id • author_role • date • text):
 18579 • unknown • NaT • Chaser sent to Rachael.
 18744 • unknown • NaT • BU informed DTO to close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-100,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1356,7 +1356,7 @@ Date Raised: 23 October 2024 Candidate Email: chihchingyap@yahoo.com , carolchew
 Evidence comments (id • author_role • date • text):
 20134 • unknown • NaT • Intelegain is unable to identify the root cause but rectification plan has been completed
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-101,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1370,7 +1370,7 @@ Evidence comments (id • author_role • date • text):
 20141 • unknown • NaT • Rectification plan has been completed on 22 October. Development work for Automated script put on hold first
 24734 • unknown • NaT • Continue in 227
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-102,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1383,7 +1383,7 @@ Evidence comments (id • author_role • date • text):
 18791 • unknown • NaT • Prometric replied that the certification level has been passed to CRM. We will check with ITG on that
 20143 • unknown • NaT • Intelegain came back saying that since the payment summary is not being fetched as well. Thus Intelegain suspect that it might be a network issue
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-103,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1399,7 +1399,7 @@ Evidence comments (id • author_role • date • text):
 19014 • unknown • NaT • DTO found another candidate who got passed the mic check but we are not able to hear anything inside the recording t_nicolettelana@yahoo.fr
 20144 • unknown • NaT • This is not a technical issue, will be closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-104,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1412,7 +1412,7 @@ Evidence comments (id • author_role • date • text):
 19015 • unknown • NaT • nan
 20145 • unknown • NaT • Will be closing this ticket here as this is not a technical issue from Secure Browser
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-105,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1424,7 +1424,7 @@ Date Raised: 24 October Candidate Email: zanehau@gmail.com Email Thread: No acce
 Evidence comments (id • author_role • date • text):
 19473 • unknown • NaT • Closing this ticket as this issue arise because the candidate did not make payment within 5 minutes. This issue can be resolved with the upcoming Change Request 5.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-106,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1444,7 +1444,7 @@ Evidence comments (id • author_role • date • text):
 19899 • unknown • NaT • DTO will continue to monitor the issue in Production.
 20146 • unknown • NaT • Will be closing this ticket here as no further reports on this
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-107,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1457,7 +1457,7 @@ Evidence comments (id • author_role • date • text):
 18881 • unknown • NaT • We have verified that this issue is related to CRM as the status is not updated to “Cancelled” after the candidate called the cancellation API which removed the application in CRM.
 18882 • unknown • NaT • Since this is not a technical issue, will be closing the ticket here and will be tracking the payment issue in another ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-108,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1471,7 +1471,7 @@ Evidence comments (id • author_role • date • text):
 20147 • unknown • NaT • Tested in UAT environment. No issues observed
 23661 • unknown • NaT • Fix have been deployed to Production on 21 Apr. will be closing this ticket
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-109,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1483,7 +1483,7 @@ Date Raised: 14 November Candidate Email: marciaang@hotmail.com Email Thread: IH
 Evidence comments (id • author_role • date • text):
 19647 • unknown • NaT • Points were answered as per Ankit from Prometric: Could you confirm the following points for us: Under what circumstances would a candidate receive this error message? This appears when the candidate does not have internet connectivity, and the popup appears with the Retry button. It will disappear when the candidate clicks on a Retry Button and if the internet is connected. Is the assessment terminated when there is an internet disruption? No System will not terminate, the popup will appear till the internet is not connected. If not, could you explain what might have happened during this candidate's attempt? All responses are saved in the backend until an internet connection is established. If a candidate exits from the secure browser by manually clicking the cross icon in the top right corner, they will not be able to restart the paper on the same day if their time slot has expired. However, if the time slot is still valid, the candidate can start the paper again on the same day. BU has reached out to the candidate to offer free rescheduling for candidate to resume assessment. We can close this case.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-110,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1495,7 +1495,7 @@ Date Raised: 14 November Candidate Email: bubble8182@gmail.com Email Thread: Out
 Evidence comments (id • author_role • date • text):
 20135 • unknown • NaT • Will be closing this ticket as we have identified the root cause: Reschedule API failed for this candidate Rectification plan has been completed on December 18
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-111,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1507,7 +1507,7 @@ Date Raised: 14 November Candidate Email: margaret.leong@lasalle.edu.sg Email Th
 Evidence comments (id • author_role • date • text):
 23973 • unknown • NaT • Similar to POI 113 4 Feb - May we propose closing this item and monitoring for similar issues in the future? Workaround Solution With the Cert team’s approval, DTO will manually rectify the assessment date in the main and reassessment application in CRM.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-112,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1519,7 +1519,7 @@ Date Raised: 14 November Candidate Email: slimserene@gmail.com Email Thread: Out
 Evidence comments (id • author_role • date • text):
 20136 • unknown • NaT • As this is the correct behavior, no actions required on ITG side, so we are closing this ticket here
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-113,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1531,7 +1531,7 @@ Date Raised: 14 November 2024 Candidate Email: may_syan@hotmail.com Email Thread
 Evidence comments (id • author_role • date • text):
 23972 • unknown • NaT • 4 Feb - May we propose closing this item and monitoring for similar issues in the future? Workaround Solution With the Cert team’s approval, DTO will manually rectify the assessment date in the main and reassessment application in CRM.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-114,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1544,7 +1544,7 @@ Evidence comments (id • author_role • date • text):
 19052 • unknown • NaT • Pending prometric to share the logs with us - who amended the test setting
 19937 • unknown • NaT • Logs shared with us. Closing this ticket for internal investigation.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-115,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1560,7 +1560,7 @@ Evidence comments (id • author_role • date • text):
 19895 • unknown • NaT • DTO replied that based on the SS, it should not be an issue relating to the fee lists. DTO suggested to remove the draft again, and scheduling a call with the candidate on 26/12 or 27/12 to have a walkthrough. If it cannot be fixed, candidate will be requested to SS the logs and DTO will log a ticket with the vendor to check. the deletion request will be sent by 23/12.
 20896 • unknown • NaT • Confirmed issue is related to the slot’s missing information in the main application. Issue rectified for janeleong7@gmail.com .
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-116,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1576,7 +1576,7 @@ Evidence comments (id • author_role • date • text):
 20148 • unknown • NaT • Pending Prometric to revert on which deployment was this fix deployed?
 22178 • unknown • NaT • Prometric is unable to replicate the scenario. given that there is only one case reported to us, we will close this for monitoring.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-117,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1595,7 +1595,7 @@ Evidence comments (id • author_role • date • text):
 20151 • unknown • NaT • TC 1 test case has passed and deployed on 30 December 2024. Test case 2 still pending ITG’s development work
 23971 • unknown • NaT • Prometric replied that they are working on it, and it will be fixed the day after (12/12).
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-118,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1630,7 +1630,7 @@ Evidence comments (id • author_role • date • text):
 23976 • unknown • NaT • 1 May - We have validated the fix in the Sandbox environment by closely following the root cause description and scenario. When the timer for the LLP (90 minutes) expires, the test automatically submits, and the optional break is visible. Additionally, the subsequent paper becomes available in the assessment when the break is skipped. We will validate two more scenarios (CA and CP) before finalizing this for deployment.
 24266 • unknown • NaT • Ticket is deployed and validated in Production, tracked in 22nd May Deployment Test Cases.xlsx.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-119,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1643,7 +1643,7 @@ Evidence comments (id • author_role • date • text):
 20138 • unknown • NaT • The passing criteria was changed in Prometric system, which caused this issue
 23970 • unknown • NaT • 10 Feb - YH Confirm that the ticket can be closed.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-120,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1655,7 +1655,7 @@ nan
 Evidence comments (id • author_role • date • text):
 20137 • unknown • NaT • Prometric replied that they received a request from IHRP team to remove the draft application of these 2 candidates, and have accidentally removed a submitted application. We are checking with Prometric team if there are any SOP to verify if the application is indeed a draft before removing it.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-121,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1668,7 +1668,7 @@ Evidence comments (id • author_role • date • text):
 20109 • unknown • NaT • Per Ankit’s comment: This has happened because the candidate experiencing a slow internet connection or no connection. After all, this candidate is not able to enter the paper. Yes, When the internet connection is slow or when no internet connection appears then the system will exit the candidate from the assessment.
 20110 • unknown • NaT • Closing this ticket to monitor further.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-122,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1680,7 +1680,7 @@ We received feedback from candidate that they faced this error during the instal
 Evidence comments (id • author_role • date • text):
 19970 • unknown • NaT • Per Ankit’s reply, pop up appears when internet connection is not available. Internet connection is required to check for Updates for secure browser application.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-123,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1692,7 +1692,7 @@ For Monitoring Context: I was prompted by Secure Browser that the RPT test was n
 Evidence comments (id • author_role • date • text):
 20100 • unknown • NaT • Have managed to fix it, issue was the test expiry date was for 31/12/2024. Ticket closed, not a bug
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-124,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1705,7 +1705,7 @@ Evidence comments (id • author_role • date • text):
 20265 • unknown • NaT • Prometric: The cause of the issue There was a small logc glitch which was creating this issue in the calendar year check. The steps to validate the fix To check do the reassessment of the 2024 candidate who failed in the OA paper. IHRP Validation (10/1/25) UAT: Able to schedule reassessment using CR 4 - muxeh@mailto.plus Prod: Error message still present using CR 4 - eternalcries@mailto.plus
 20296 • unknown • NaT • Issue is deployed on 10th Jan Friday evening. Validated in Prod on 13th Jan Morning - les.santillan@gmail.com Closing this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-136,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1728,7 +1728,7 @@ Evidence comments (id • author_role • date • text):
 23975 • unknown • NaT • 21 April - Pending DTO testing on the sandbox environment.
 24267 • unknown • NaT • Ticket is deployed and validated in Production, tracked in 22nd May Deployment Test Cases.xlsx.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-159,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1740,7 +1740,7 @@ We had a candidate who took her assessment today and encountered an issue where 
 Evidence comments (id • author_role • date • text):
 23969 • unknown • NaT • 10 April - The candidate's ability to continue the assessment after relaunching the browser further supports the theory of a temporary connectivity disruption rather than a persistent application issue. Please let us know if you'd like us to add any additional network checks or retry mechanisms for future improvements.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-162,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1754,7 +1754,7 @@ Evidence comments (id • author_role • date • text):
 21221 • unknown • NaT • Immediate Action Since candidate’s assessment was scheduled on 14/02/25, requested Prometric Team to: Remove the entire record and reinstate the IHRP-CA application with the correct CA paper assigned for 14/2/25 RPT assessment. Root Cause Separately, pending Prometric Team to revert on what is the candidate’s EC selection recorded in the logs. Based on our records in CRM, candidate has applied for an IHRP-CA certification, but the paper assigned in Prometric is IHRP-CP level.
 21384 • unknown • NaT • According to the log the candidate has selected the CA type. Logs: [{""name"":""enrollmentId"",""value"":""f0d59944-b6be-ef11-a72f-000d3ac8069b""},{""name"":""applicationId"",""value"":""0""},{""name"":""assesment_type"",""value"":""CA""},{""name"":""autoGenOrderId"",""value"":""PROM202405460""},{""name"":""category"",""value"":""Fresh Application""},{""name"":""jobProfile"",""value"":""HR Professionals""},{""name"":""specialization"",""value"":""""},{""name"":""educationType"",""value"":0},{""name"":""universityName"",""value"":null},{""name"":""courseName"",""value"":null},{""name"":""otherCategory"",""value"":""""},{""name"":""otherSubCategory"",""value"":""""},{""name"":""otherSubCategoryCourse"",""value"":null},{""name"":""hrExperience"",""value"":null},{""name"":""hrTrainingHr"",""value"":null},{""name"":""hrStrategicExperience"",""value"":null},{""name"":""hrEndorsementExperience"",""value"":null},{""name"":""hrManagingExperience"",""value"":null},{""name"":""hrUpgraderCourse"",""value"":""""},{""name"":""hrSkillBadge"",""value"":null},{""name"":""hrQualification"",""value"":""""},{""name"":""testMode"",""value"":""rpt""},{""name"":""centreName"",""value"":""""},{""name"":""scheduleExamDate"",""value"":""2025-02-14""},{""name"":""scheduleExamSlot"",""value"":""09:00 AM-02:00 PM""},{""name"":""prometricOrderId"",""value"":""5897""},{""name"":""ihls_exemption"",""value"":false},{""name"":""Type"",""value"":""Candidate""},{""name"":""EAFailed"",""value"":false}] Based on the logs provided by Prometric Team, it is evident that the candidate applied for the IHRP-CA level, as the other relevant fields, which were all marked as 'null', are for the IHRP-CP level. If the IHRP-CP level had been selected, the logs would have shown the selected values, as these are mandatory fields to proceed with the Eligibility Check. Since this case cannot be replicated and Prometric has confirmed that it was not manually modified, we will proceed to close the case for monitoring.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-170,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1766,7 +1766,7 @@ Made changes in the excel online for Republic Poly students under the HR Role So
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-178,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1778,7 +1778,7 @@ One candidate reported encountering a pop-up near the end of their assessment. U
 Evidence comments (id • author_role • date • text):
 22012 • unknown • NaT • Confirmed by Prometric Team - Closing this ticket for monitoring.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-179,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1795,7 +1795,7 @@ Evidence comments (id • author_role • date • text):
 24131 • unknown • NaT • Eunice: Ticket is ready for deployment on 21/05/25
 24268 • unknown • NaT • Ticket is deployed and validated in Production, tracked in 22nd May Deployment Test Cases.xlsx.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-182,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1810,7 +1810,7 @@ Evidence comments (id • author_role • date • text):
 24553 • unknown • NaT • Hi @Shu Ting Ang , this ticket has been deployed successfully on 29th May 2025. It will be closed for monitoring.
 24557 • unknown • NaT • 3 June - This ticket has been deployed successfully on 29th May 2025. It will be closed for monitoring.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-183,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1824,7 +1824,7 @@ Evidence comments (id • author_role • date • text):
 23437 • unknown • NaT • Pending Ayush to confirm if we can rectify the count before closing the ticket. Pending confirmation on the requirement for the no. of attempt counts.
 23631 • unknown • NaT • Assessment count logic in Prometric system now: Rectified attempt count in masterlist and DTO to perform impact analysis and raise a separate ticket if required:
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-184,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1837,7 +1837,7 @@ Evidence comments (id • author_role • date • text):
 24132 • unknown • NaT • Eunice: Ticket is ready for deployment on 21/05/25
 24269 • unknown • NaT • Ticket is deployed and validated in Production, tracked in 22nd May Deployment Test Cases.xlsx.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-186,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1854,7 +1854,7 @@ Evidence comments (id • author_role • date • text):
 24554 • unknown • NaT • Hi @Shu Ting Ang , this ticket has been deployed successfully on 29th May 2025.
 24558 • unknown • NaT • 3 June -This ticket has been deployed successfully on 29th May 2025.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-187,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1869,7 +1869,7 @@ Evidence comments (id • author_role • date • text):
 23530 • unknown • NaT • Test Step to replicate the case Step 1: Create the fresh application and schedule assessment with the EA Link. Attempt the EA paper and main paper by failing one of the papers in the main. Step 2: Now, apply for the reassessment and before filling in all the details of the eligibility criteria, open the previously submitted EA link from the fresh application schedule email. Step 3: After, click on the EA Link; it will show you the error that the paper has already submitted. Now go to the scheduling of the reassessment by clicking on the apply now button from CRM and complete scheduling. Issue resolved and validated in Production.
 23664 • unknown • NaT • Root Cause: candidate applied for a reassessment but went to click on the EA link for the initial attempt
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-188,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1881,7 +1881,7 @@ We noticed that a candidate was able to select another slot at the payment summa
 Evidence comments (id • author_role • date • text):
 24271 • unknown • NaT • 14 March from Prometric: According to the logs, the candidate initially intended to book a time slot for March. However, they did not complete the payment within five minutes, which resulted in the slot being removed from the system. When the candidate returned to Prometric to finalize the scheduling, they selected a slot for June and successfully made the payment. Please refer to the attached screenshot for further details.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-189,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1897,7 +1897,7 @@ Evidence comments (id • author_role • date • text):
 24130 • unknown • NaT • Ticket ready for deployment on 21/05/25.
 24270 • unknown • NaT • Ticket is deployed and validated in Production, tracked in 22nd May Deployment Test Cases.xlsx.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-192,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1910,7 +1910,7 @@ Evidence comments (id • author_role • date • text):
 23796 • unknown • NaT • Confirmed by Prometric Team that there are SS to show automatic submission by the system. SS Provided by Prometric Team (production): In that case, we will close this ticket and continue tracking the issue in the POI-118 thread. Additionally, we have noted that the logs tracking the submission of tests by the system are currently live in Production, as confirmed by the screenshots provided by the Prometric Team.
 23964 • unknown • NaT • Last Comment by Eunice on 8 May - In that case, we will close this ticket and continue tracking the issue in the thread. Additionally, we have noted that the logs tracking the submission of tests by the system are currently live in Production, as confirmed by the screenshots provided by the Prometric Team.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-194,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1923,7 +1923,7 @@ Evidence comments (id • author_role • date • text):
 23398 • unknown • NaT • ready for deployment
 23500 • unknown • NaT • TIP results: passed. Closing this ticket. Candidate view (IHRP Portal) Admin view (Prometric Admin Portal) CP RPT slots CP CBT slots
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-195,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1941,7 +1941,7 @@ Evidence comments (id • author_role • date • text):
 24800 • unknown • NaT • .
 24802 • unknown • NaT • Eunice: Hi @Shu Ting Ang , following up from the previous comment, we have verified that the list of users who were hit with this error have their OA results all in sync with CRM, including candidate kristalang@mws.sg. Since all results are in sync with CRM, we can proceed to close this ticket until the issue is resolved on CRM side. We will work with Intelegain Team on this separately once procurement is completed internally. FYI @Muhammad Hasan
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-196,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1959,7 +1959,7 @@ Evidence comments (id • author_role • date • text):
 25185 • unknown • NaT • Eunice: Hi Rachael, Apologies for the delayed update - vendor has just gotten back. The vendor has attempted to investigate the issue and tried to apply from their end with a test data. During the check, they managed to apply successfully. They have removed the test data and this flow is now working as expected. Please inform the candidate to disregard any emails received and may proceed to reapply for Reassessment on her end. Do let us know if issue is resolved after.
 25429 • unknown • NaT • Eunice: Verified in Prometric and CRM that candidate has applied and paid for Reassessment. Closing this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-201,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1973,7 +1973,7 @@ Evidence comments (id • author_role • date • text):
 24405 • unknown • NaT • Hi @Shu Ting Ang , this ticket is under @justin leng . They should be deploying this ticket soon.
 24409 • unknown • NaT • 28 May by Justin: Hi Sachrit, The change regarding the IHRP Competency Email has been validated in the UAT website. Please help to validate the content and let me know when you are ready to deploy the change into the production website. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-203,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -1985,7 +1985,7 @@ HI \n\nPls help to change email from shwu.ping.kee@prudential.com.sg to her new 
 Evidence comments (id • author_role • date • text):
 23893 • unknown • NaT • Hi Rabiah, Thank you for reaching out. Kindly request the user to perform a one-time signup using keeshwuping@gmail.com.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-204,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2009,7 +2009,7 @@ Evidence comments (id • author_role • date • text):
 24746 • unknown • NaT • Hi @Shu Ting Ang , currently as noted from the CRM, Shelby has not scheduled an assessment with her yet, we are still waiting for her to schedule, before we can mark this as resolved.
 24797 • unknown • NaT • Routed to Kah Boon on 10 June for assistance as Shelby is on leave.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-205,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2021,7 +2021,7 @@ Please update the candidate's email address:\n\nThis is the message from the can
 Evidence comments (id • author_role • date • text):
 23959 • unknown • NaT • Hi Shelby, We have merged the accounts, kindly request the user to perform a one-time signup using jesslynongzhenzhen@gmail.com. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-206,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2039,7 +2039,7 @@ Evidence comments (id • author_role • date • text):
 24395 • unknown • NaT • Hi Shelby, We are waiting for Prometric to delete the paid application before reverting thank you.
 24465 • unknown • NaT • Hi Shelby, We have deleted the paid application in Prometric, please proceed to cancel the application in CRM and indicate ""No Show"".
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-207,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2052,7 +2052,7 @@ Evidence comments (id • author_role • date • text):
 23961 • unknown • NaT • Hi Rachael, Thank you for reaching out. We will be providing an update once the draft is removed. Thank you.
 23985 • unknown • NaT • Hi Rachael, The draft has been deleted in Prometric and cancel in CRM. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-209,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2067,7 +2067,7 @@ Evidence comments (id • author_role • date • text):
 24404 • unknown • NaT • Hi @Shu Ting Ang , this ticket falls under .
 24410 • unknown • NaT • Investigation in .
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-210,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2081,7 +2081,7 @@ Evidence comments (id • author_role • date • text):
 24420 • unknown • NaT • Hi @Shu Ting Ang , As discussed, please ask the candidate to take a screenshot of the payment page before this to see the issue. Sometimes, these kinds of things can be done too quickly, and requires some waiting time before the fields appear. Thank you.
 24475 • unknown • NaT • Hi @Muhammad Hasan thank you for the information, candidate managed to make payment for the reassessment application. We will close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-214,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2101,7 +2101,7 @@ Evidence comments (id • author_role • date • text):
 24811 • unknown • NaT • Eunice: Hi @Shu Ting Ang and @Cheryl , Regarding the use of VPN - We have deployed information on use of VPN and company laptop in the candidate competency assessment details email on 21/05. Candidates who have this issue and are unable to resolve the issue will be deemed as user issue. However, we noted that candidate has applied on 06/05, so this information was not conveyed to her. Regarding eHelp support - Prometric Team has confirmed that candidate did not reach out to them for support so we are unable to confirm if support was lacking as per what the candidate claimed. Hence, we are unable to confirm if this is a user or technical issue. However, given the extended turnaround time for the L2-level investigation and the absence of communication with the candidate, we recommend that the BU reschedule the session as a service recovery measure. Please also inform the candidate that the issue likely stemmed from the use of a VPN, and strongly advise using a personal laptop for the next attempt. If there are no further actions required from L2, please proceed to close this ticket. FYI @Muhammad Hasan
 24828 • unknown • NaT • Hi Eunice, Thank you for the detailed information. We will route this case to bu for review and close this ticket,
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-215,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2115,7 +2115,7 @@ Evidence comments (id • author_role • date • text):
 24533 • unknown • NaT • Hi @Shu Ting Ang , we have recently deployed this ticket , you may proceed to follow up with the candidate. Apologies for the confusion.
 24535 • unknown • NaT • Deployment done on 22 May.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-219,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2136,7 +2136,7 @@ Evidence comments (id • author_role • date • text):
 24852 • unknown • NaT • Eunice: This ticket is pending deployment. We will deploy it after the RPT assessment wave this June.
 25387 • unknown • NaT • Hasan: This ticket has been deployed as of 27/6/2025. Production results attached in Jira:
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-220,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2153,7 +2153,7 @@ Evidence comments (id • author_role • date • text):
 24559 • unknown • NaT • 3 June - this ticket has been deployed successfully on 29th May 2025.
 25311 • unknown • NaT • Background A candidate completed an assessment in 2024 and reapplied for a reassessment in 2025. During the second application in 2025, a system error occurred, incorrectly indicating that the candidate had already taken the assessment—even though they had not done so in the current year. System Logic Issues Identified Year Change Not Handled Properly The system didn’t correctly account for the fact that the candidate’s original test was taken in a different year. This caused a misinterpretation of the candidate’s Repeater Status—a value that determines the no. of assessments taken in a year. In this instance, the candidate’s repeater status was incorrectly carried over from the previous attempt, which led the system to mistakenly mark the new entry as already completed. Incorrect Group Assignment Because of the faulty Repeater Status, the system assigned the candidate to the wrong group after submission. This group assignment is crucial for determining the assessment paper to be taken. As candidate was assigned to a previous attempt's group, assessment is automatically deemed as taken. Error Message Pop-up When the candidate tried to do her assessment, the system showed a “Test already attempted” message. This message was triggered due to the above issues, where the system believed the candidate had already taken the test, even though the assessment was valid. Deployment Date 29/05/2025
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-227,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2175,7 +2175,7 @@ Evidence comments (id • author_role • date • text):
 24798 • unknown • NaT • Routed to Kah Boon to assist the candidate,
 24925 • unknown • NaT • Closing this ticket, cannot find the one who raise it.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-228,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2203,7 +2203,7 @@ Evidence comments (id • author_role • date • text):
 24923 • unknown • NaT • Follow up in .
 25086 • unknown • NaT • Hi All, the following application in draft status has been rectified in CRM. Application- 20250500098 and 20250500111 have been rectified.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-232,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2215,7 +2215,7 @@ While doing testing in prod, the team faced an issue where the secure browser be
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-233,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2230,7 +2230,7 @@ Evidence comments (id • author_role • date • text):
 24534 • unknown • NaT • Hi @Shu Ting Ang , the application has been reinstated, and Rabiah has regenerated the access code the candidate for assessment.
 24552 • unknown • NaT • pls note that this has been resolved. Pls close this.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-234,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2242,7 +2242,7 @@ Name: Alastair Tan\nExisting Email: alastairtan@hotmail.com\nNew Email: Alastair
 Evidence comments (id • author_role • date • text):
 24397 • unknown • NaT • Hi Rachael, We have update the email address, kindly request for the candidate to do a one time sign up. There is also no record of draft in Prometric therefore please let us know if any action is required on our end thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-235,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2254,7 +2254,7 @@ Name: Vanessa Chan\nExisting Email: Vanessachan93@gmail.com \nNew Email: Vanessa
 Evidence comments (id • author_role • date • text):
 24412 • unknown • NaT • Hi Rachael, We have update the email address, kindly ask the candidate to do a one-time sign up thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-236,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2267,7 +2267,7 @@ Evidence comments (id • author_role • date • text):
 24306 • unknown • NaT • Hi Rachael, We have raised this request. Will inform you once it has been deleted. Thanks.
 24354 • unknown • NaT • Hi Rachael, We have deleted the draft in Prometric and cancel in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-237,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2316,7 +2316,7 @@ Evidence comments (id • author_role • date • text):
 27952 • unknown • NaT • Eunice: Hi Cheryl, Thanks for the update! We will get vendor to provide an update on what was done differently this time that the candidate was able to proceed. We need to ensure that the steps taken to rectify such cases are properly documented so we can respond swiftly to such cases in future. Thereafter, i will close the ticket here.
 28257 • unknown • NaT • Eunice: Vendor has confirmed that issue reoccurred because candidate re-clicked the EA link before entry was being removed by the vendor, which created a new record. After removing the new entry, the candidate was able to proceed and complete the EA. With that, we can proceed to close this case.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-238,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2329,7 +2329,7 @@ Evidence comments (id • author_role • date • text):
 24290 • unknown • NaT • Testing of this has been completed and tracked in IHRP_TestCases_SecureBrowser.xlsx and Ticket is ready for deployment, pending Prometric to confirm on impact analysis. FYI @Shu Ting Ang
 24567 • unknown • NaT • Eunice 3/6/25: confirmed by prometric team that ticket is deployed together with . Closing this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-239,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2362,7 +2362,7 @@ Evidence comments (id • author_role • date • text):
 28206 • unknown • NaT • ST: Hi Rabiah, We have observed that the candidate’s current application status remains as “Submitted.” Could you kindly confirm if you’ve reached out to the candidate to reschedule, as the issue appears to have stemmed from a technical error? Appreciate the prompt assistance in this as this case has been pending for sometime. Thank you.
 28316 • unknown • NaT • ST: Hi Rabiah, As spoken yesterday, we will close this ticket. Kindly reopen it if you required any more actions from DTO thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-241,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2375,7 +2375,7 @@ Evidence comments (id • author_role • date • text):
 24414 • unknown • NaT • Hi Shelby, Based on your description, the candidate would not be able to cancel her CA assessment scheduled for 19 March, even though she wrote in 17 March. As per policy, cancellation should be made no later than ten (10) calendar days before the scheduled assessment date or start date of remote assessment window This would therefore be considered a no-show application. If the candidate intends to apply for the IHRP-CP, she will first need to settle the outstanding SFC claim of $272.50. Once payment is received, we can proceed to cancel the application in Prometric and initiate the cancellation of the paid application to allow her to reapply. We hope this clarifies the situation. Please let us know if any further action is required on our end. Thank you.
 24415 • unknown • NaT • Hi Shelby, Based on your description, the candidate would not be able to cancel her CA assessment scheduled for 19 March, even though she wrote in 17 March. As per policy, cancellation should be made no later than ten (10) calendar days before the scheduled assessment date or start date of remote assessment window This would therefore be considered a no-show application. If the candidate intends to apply for the IHRP-CP, she will first need to settle the outstanding SFC claim of $272.50. Once payment is received, we can proceed to cancel the application in Prometric and initiate the cancellation of the paid application to allow her to reapply. We hope this clarifies the situation. Please let us know if any further action is required on our end. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-242,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2388,7 +2388,7 @@ Evidence comments (id • author_role • date • text):
 24416 • unknown • NaT • Hi Rachael, We will proceed to delete the draft and update once it is completed thank you.
 24467 • unknown • NaT • Hi Rachael, The draft in Prometric has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-243,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2400,7 +2400,7 @@ Appeal for this candidate Charles.yeojh@gmail.com was approved by Jocelyn and Ji
 Evidence comments (id • author_role • date • text):
 24393 • unknown • NaT • Resolved on 27 May 2025
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-244,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2413,7 +2413,7 @@ Evidence comments (id • author_role • date • text):
 24417 • unknown • NaT • Hi Rachael, We will proceed to delete the draft and update once it is completed thank you.
 24468 • unknown • NaT • Hi Rachael, The draft in Prometric has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-247,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2428,7 +2428,7 @@ Evidence comments (id • author_role • date • text):
 24731 • unknown • NaT • Hi @Shu Ting Ang , In order for the candidate to receive the EA link or paper, the “IHRP Recognised Qualification” field must be selected to “None” . If any recognised qualification is selected (such as the CSC HR Foundation Programme), the system considers the candidate exempt and does not trigger the EA component.
 24744 • unknown • NaT • Prometric findings: In order for the candidate to receive the EA link or paper, the “IHRP Recognised Qualification” field must be selected to “None”. If any recognised qualification is selected (such as the CSC HR Foundation Programme), the system considers the candidate exempt and does not trigger the EA component.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-248,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2447,7 +2447,7 @@ Evidence comments (id • author_role • date • text):
 24941 • unknown • NaT • Hasan: Hi @shu ting, merging this ticket to . Thank you.
 24946 • unknown • NaT • Hi, Rabiah has assisted both candidates to settle the matter and has scheduled her assessment for the 15th of July. I have merged to to follow up. For any further follow-ups, proceed to . Thank you. FYI @Shu Ting Ang .
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-249,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2460,7 +2460,7 @@ Evidence comments (id • author_role • date • text):
 24418 • unknown • NaT • Hi Rachael, We will proceed to delete the draft and update once it is completed thank you.
 24469 • unknown • NaT • Hi Rachael, The draft in Prometric has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-250,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2478,7 +2478,7 @@ Evidence comments (id • author_role • date • text):
 24866 • unknown • NaT • Hi Kah Boon and Rabiah, Could we kindly seek your assistance with this case, as Shelby is currently away? Unfortunately, we do not have the original email thread to follow up on. Thank you for your support.
 24930 • unknown • NaT • ST: Informed Rabiah via teams to follow up therefore closing the ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-251,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2491,7 +2491,7 @@ Evidence comments (id • author_role • date • text):
 24473 • unknown • NaT • Hi Shelby, Candidate has selected a assessment date on 10/10/25. However Fees List Q3 2025 is only created until 30/9/25. Please proceed to update the fee list or request for the candidate to select a date within the range thank you.
 24486 • unknown • NaT • Thanks, Shu Ting! Can she continue with her existing draft or your side has to delete the draft? Thanks
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-252,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2504,7 +2504,7 @@ Evidence comments (id • author_role • date • text):
 24474 • unknown • NaT • Hi Shelby, Candidate is unable to click on apply now as there is a existing draft in Prometric. We will proceed for deletion before reverting thank you.
 24527 • unknown • NaT • Hi Shelby, The draft has been removed in Prometric, candidate should be able to reapply. Please reach out if there is any other issues thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-260,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2517,7 +2517,7 @@ Evidence comments (id • author_role • date • text):
 24524 • unknown • NaT • Hi Shelby, we will revert when the draft is deleted thank you.
 24593 • unknown • NaT • Hi Shelby the draft has been deleted in Prometric and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-262,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2530,7 +2530,7 @@ Evidence comments (id • author_role • date • text):
 24562 • unknown • NaT • Hi Rabiah, Current email used for Application: Rukzana.Hamid@ap.jll.com. The candidate’s application is currently in Talview and has not yet been migrated. We will proceed to delete the draft in Prometric. Rachael has responded to the candidate, advising her to wait for the migration of her initial assessment data to our new platform.
 24594 • unknown • NaT • Hi Rabiah, The draft has been deleted in Prometric thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-263,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2545,7 +2545,7 @@ Evidence comments (id • author_role • date • text):
 24723 • unknown • NaT • Hi Rabiah just to follow up on the above?
 24736 • unknown • NaT • Hi Rabiah, Thank you for reaching out, we have merge the accounts please request the candidate to do a one time sign up using lim.leeleng@yahoo.com.sg.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-264,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2557,7 +2557,7 @@ Please refer to my email today with the above title. \nCandidate's name: Kai Lin
 Evidence comments (id • author_role • date • text):
 24568 • unknown • NaT • Hi Shelby, Following up on the candidate’s case, I’ve consulted with the L2 team and confirmed that the issue stems from an incorrect selection made during the application process. As a result, the candidate is not eligible for exemption at this stage. To proceed correctly, the candidate should select “IHRP Recognised Qualification” under the “Other” category and indicate the relevant institution to qualify for exemption from the EA. Kindly advise the candidate to cancel the current application and reapply with the appropriate selection. Additionally, as discussed with both Kah Boon and Rabiah, please note that on-site assessments are not available for exemption assessments. Should the candidate wish to reapply, the remote assessment option must be selected. Thank you for your assistance.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-265,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2570,7 +2570,7 @@ Evidence comments (id • author_role • date • text):
 24564 • unknown • NaT • Replied via email, pending draft deletion.
 24595 • unknown • NaT • Hi Shelby, The draft has been deleted in Prometric and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-266,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2584,7 +2584,7 @@ Evidence comments (id • author_role • date • text):
 24592 • unknown • NaT • Hi, I sighted that there is no draft in Prometric, not sure if it was deleted or what. anyway, i can cancelled the draft in CRM. Thank you.
 24596 • unknown • NaT • Hi Rachael, Yes the draft is deleted thank you for assisting to cancel in CRM.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-267,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2596,7 +2596,7 @@ Name: Du Zhenquan\nExiting email: lancer244@hotmail.com\nNew email: vernon.du@el
 Evidence comments (id • author_role • date • text):
 24570 • unknown • NaT • Hi Rachael, We have merged the email address, please ask candidate to do a one time sign up using vernon.du@elitez.asia thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-268,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2608,7 +2608,7 @@ Dear Irene and Jia Wen,\n\nOur tech support team @Hello (IHRP) is assisting to c
 Evidence comments (id • author_role • date • text):
 24722 • unknown • NaT • Dear Kah Boon, Upon review, it appears that the candidate is required to complete the Experience Assessment (EX) due to an incorrect selection during the application process. The exemption applies only to those who selected the Human Resource Managers Programme (HRMP), and not the CSC HR Foundation Programme. Please let us know how we may assist further. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-269,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2620,7 +2620,7 @@ Name: Jocelyn Chan\nExisting email: jonicklam@hotmail.com \nNew email: Jocelyn_C
 Evidence comments (id • author_role • date • text):
 24651 • unknown • NaT • Hi Rachael, Kindly ask the candidate do a one time sign up using Jocelyn_CHAN@mas.gov.sg thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-270,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2633,7 +2633,7 @@ Evidence comments (id • author_role • date • text):
 24652 • unknown • NaT • Hi Rachael, We will provide an update when the draft is delete.
 24717 • unknown • NaT • Hi Rachael the draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-272,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2646,7 +2646,7 @@ Evidence comments (id • author_role • date • text):
 24653 • unknown • NaT • Hi Rachael, We will provide an update once the daft is delete.
 24718 • unknown • NaT • Hi Rachael the draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-273,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2659,7 +2659,7 @@ Evidence comments (id • author_role • date • text):
 24654 • unknown • NaT • Hi Rachael, We will provide an update once the daft is delete.
 24719 • unknown • NaT • Hi Rachael the draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-274,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2673,7 +2673,7 @@ Evidence comments (id • author_role • date • text):
 24656 • unknown • NaT • Hi Kah Boon, We will provide an update once the daft is delete.
 24724 • unknown • NaT • Hi Kah Boon, Unfortunately, the issue persists, and the error message indicates that one or more attachments exceeding the 20 MB limit have been dropped. Kindly reach out to the sender to have the file resent in a smaller size or through an alternative method. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-275,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2686,7 +2686,7 @@ Evidence comments (id • author_role • date • text):
 24657 • unknown • NaT • Hi Kah Boon, We will provide an update once the daft is delete.
 24720 • unknown • NaT • Hi Kah Boon the draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-276,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2698,7 +2698,7 @@ Name:Wendii Kong\nExisting Email: wendiikongoikw@gmail.com\nNew Email: Wendii_Ko
 Evidence comments (id • author_role • date • text):
 24658 • unknown • NaT • Hi Rachael, Kindly ask the candidate to perform a on time sign up using Wendii_KongOK@sats.com.sg thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-286,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2712,7 +2712,7 @@ Evidence comments (id • author_role • date • text):
 24860 • unknown • NaT • Hi Kah Boon, The draft has been deleted in Prometric and cancel in CRM thank you.
 24921 • unknown • NaT • Hi Shu Ting, The candidate has proceeded to submit another draft and would need your help to delete the draft again. We will inform him that we will proceed to submit the application at the system backend. Thanks.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-287,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2726,7 +2726,7 @@ Evidence comments (id • author_role • date • text):
 24826 • unknown • NaT • Hi Shu Ting, please proceed to delete the draft so candidate can select her preferred date. thanks!
 24862 • unknown • NaT • Hi Kah Boon, We have deleted the draft thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-288,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2744,7 +2744,7 @@ Evidence comments (id • author_role • date • text):
 25115 • unknown • NaT • Hi @Shu Ting Ang , We are putting this CR on hold while procurement of hours is in progress. Based on our understanding, this is the first time this issue occurred hence we will proceed once procurement is completed. Can I suggest to close the ticket for monitoring since the ticket in DC3P board is opened?
 25125 • unknown • NaT • Hi @Eunice Chiang , Noted on the above we will close it for monitoring thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-289,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2761,7 +2761,7 @@ Evidence comments (id • author_role • date • text):
 24982 • unknown • NaT • Hi @Shu Ting Ang , The candidate's application has been reinstated. Do let us know if there are further issues. Thank you.
 24994 • unknown • NaT • Hi @Muhammad Hasan , Thank you for the information.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-290,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2774,7 +2774,7 @@ Evidence comments (id • author_role • date • text):
 24824 • unknown • NaT • Hi Rabiah, we will revert once it has been deleted thank you.
 24861 • unknown • NaT • Hi Rabiah, The draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-292,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2797,7 +2797,7 @@ Evidence comments (id • author_role • date • text):
 25510 • unknown • NaT • Hasan: Hi @Shu Ting Ang , The candidate has managed to attempt the EA after fixing a mapping issue was resolved from the vendor's end. You may proceed to close this ticket.
 25575 • unknown • NaT • Hi @Hasan, Thank you for the information. We will close the ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-293,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2813,7 +2813,7 @@ Evidence comments (id • author_role • date • text):
 25160 • unknown • NaT • Hi @Shu Ting Ang , candidate is an upgrade, and her CP certification expired on 30 th June 2021. BU has responded and mentioned that we can deactivate her SP Upgrade application and let her apply for Recertification at the CP level. Kah Boon had been added into the email thread to close the loop with the candidate.
 25194 • unknown • NaT • ST: Hi Alisha, Certification team has to follow up with the candidate before reverting. Hence we will close this ticket for now.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-294,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2830,7 +2830,7 @@ Evidence comments (id • author_role • date • text):
 25088 • unknown • NaT • Eunice: Hi @Muhammad Hasan , I have reviewed the ehelp transcript and concluded that this is a user issue. Please note that MAC devices typically requires additional step for the set up, and the candidate do not know how to allow such permissions on his/her personal device. The ehelp agent has also advised to look for Screen Sharing permissions on device (though not explicit). This is the possible step that candidate should have done: macOS Screen Recording Permission (For Mac users): -Even in Secure Browser mode, macOS requires manual screen recording permission to be granted under: -System Preferences → Security & Privacy → Screen Recording -Without this, screen sharing cannot proceed—even if the user selects a screen. Please note on this and prompt if BU would like to add this information onto the ehelp documentation page for candidate to prepare for the assessment. If there are no further queries, please proceed to close the case and route to BU for follow up. FYI @Shu Ting Ang - if its a case to route to BU, please confirm if Hasan should hand this over to your team.
 25099 • unknown • NaT • ST: Hi @Eunice Chiang , Thank you for the information. Hi @Muhammad Hasan , We will be following up on this case.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-297,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2865,7 +2865,7 @@ Evidence comments (id • author_role • date • text):
 27820 • unknown • NaT • Hi @Cheryl , noted on that. It seems like this issue only occurs for Talview candidates who were migrated and are trying to use the promo code. In that case, we may have to configure the system logic to accomodate that. However, it seems like there are only 2 candidates with this issue so far, so we will plan this change and work on it in accordance to the priority list. In the meantime, we can proceed to close the ticket as moonling9009@yahoo.com has applied without the promo code. FYI @Joycelyn Goh , @Zac Tan @Muhammad Hasan - please note on this issue. Promo code is not usable for Migrated Talview candidates with 'Assessment schedule date' field empty. Refer to linked DC3P ticket for more info.
 28086 • unknown • NaT • Hi @Eunice, Adding to list for the impacted candidate with the same issues when using the promo code.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-298,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2878,7 +2878,7 @@ Evidence comments (id • author_role • date • text):
 24887 • unknown • NaT • Hi Rachael, We will provide an update after deletion. Thank you.
 24918 • unknown • NaT • Hi Rachael, The draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-300,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2893,7 +2893,7 @@ Evidence comments (id • author_role • date • text):
 24944 • unknown • NaT • Resolved in Freskdesk and replied to the candidate.
 25002 • unknown • NaT • Hi Rachael, The draft has been deleted and candidate has successfully reapplied on 16/6/25 thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-301,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2918,7 +2918,7 @@ Evidence comments (id • author_role • date • text):
 26588 • unknown • NaT • Joy - Hi @Shu Ting, we have updated the missing data in CRM. Do let us know if there are further actions required from L2.
 26636 • unknown • NaT • Hi @Joy, Thank you for the information. Hi Kah Boon, We have rectify and update the status in CRM, the candidate can reschedule to another date in the portal. Please let us know if you still required for us to delete this application in Prometric thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-302,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2937,7 +2937,7 @@ Evidence comments (id • author_role • date • text):
 25120 • unknown • NaT • Hi @Shu Ting Ang Transaction record has been added and informed Finance Team to validate via email. Please proceed to close the case if there are no further action required from L2.
 25149 • unknown • NaT • ST: Hi @Eunice Chiang , Noted on the above. We will close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-303,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2951,7 +2951,7 @@ Evidence comments (id • author_role • date • text):
 24899 • unknown • NaT • Hi @Muhammad Hasan Please refer to the attached screenshot showing the error encountered when selecting a new date to reschedule the candidate. BU: From L1: Kindly review and assist in identifying the cause of the error. FYI @Joycelyn Goh @Eunice Chiang Thank you.
 24938 • unknown • NaT • Hi Rachael, As discussed with Eunice, the candidate’s reassessment application has been rescheduled to a new date. Kindly update the application details in CRM accordingly. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-304,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2974,7 +2974,7 @@ Evidence comments (id • author_role • date • text):
 25431 • unknown • NaT • ST: Hi @Eunice, Thank you for the information. We will close this ticket for monitoring.
 26137 • unknown • NaT • Hasan: Hi @Shu Ting Ang , Currently we have closed this ticket on our end for monitoring, as there is no resolution to this, since the issue is beyond our control. I have already sent out an email to L1s to identify the issue under the thread: Candidates face Email rendering issues when forwarded - . You may refer to that if you face emails like these. The screenshots of an example of unrendered email will be attached in Jira again for your reference. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-305,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -2987,7 +2987,7 @@ Evidence comments (id • author_role • date • text):
 24920 • unknown • NaT • Hi Rabiah, We will send for draft deletion.
 25001 • unknown • NaT • Hi Rabiah, The draft has been deleted in Prometric thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-306,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3000,7 +3000,7 @@ Evidence comments (id • author_role • date • text):
 24919 • unknown • NaT • Hi Kah Boon, The candidate has a draft in Prometric to be deleted thank you.
 25000 • unknown • NaT • Hi Kah Boon, The reassessment draft has been deleted in Prometric thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-307,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3025,7 +3025,7 @@ Evidence comments (id • author_role • date • text):
 26357 • unknown • NaT • ST: Send another chaser on 8 July.
 26389 • unknown • NaT • ST: Hi Hasan, As there is no response from the candidate we will close this case and reopen once the candidate has responded. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-308,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3037,7 +3037,7 @@ Name: Valerie Chua\nEmail: valchua@rising.com.sg
 Evidence comments (id • author_role • date • text):
 24999 • unknown • NaT • Hi Rachael, The draft has been deleted in Prometric and cancelled in crm thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-312,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3050,7 +3050,7 @@ Evidence comments (id • author_role • date • text):
 25027 • unknown • NaT • Hi Rabiah, We will delete it before reverting thank you.
 25047 • unknown • NaT • Hi Rabiah, The draft has been deleted in Prometric and cancelled in CRM.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-313,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3062,7 +3062,7 @@ Delete of draft for lapcoat@yahoo.com so candidate can proceed to apply and pay 
 Evidence comments (id • author_role • date • text):
 25048 • unknown • NaT • Hi Rabiah, The draft has been deleted in Prometric and cancelled in CRM.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-314,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3074,7 +3074,7 @@ Hi all,\nWould like to check the update on this as the candidate has sent in a r
 Evidence comments (id • author_role • date • text):
 25028 • unknown • NaT • Hi Kah Boon, We have reverted to this issue on 16 April via ticket #89154 thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-315,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3086,7 +3086,7 @@ ramzi.jamal@gmail.com - pls delete draft to facilitate application
 Evidence comments (id • author_role • date • text):
 25049 • unknown • NaT • Hi Rabiah, The draft has been deleted in Prometric.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-316,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3099,7 +3099,7 @@ Evidence comments (id • author_role • date • text):
 25030 • unknown • NaT • Hi Rabiah, Can we confirm that you would like to cancel the assessment scheduled in Prometric for this paid application before proceeding thank you.
 25032 • unknown • NaT • Hi Rabiah, As discussed there will be no deletion of drafts. Please proceed to reschedule the candidate thank you
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-317,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3111,7 +3111,7 @@ Please delete his upgrade draft appln 20250500015 in order for him to submit a f
 Evidence comments (id • author_role • date • text):
 25131 • unknown • NaT • Hi Shelby, The draft has been deleted in Prometric and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-318,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3123,7 +3123,7 @@ Hi all,\n\nThis candidate came to the onsite application clinic on 17 Jun 2025 a
 Evidence comments (id • author_role • date • text):
 25050 • unknown • NaT • Hi Kah Boon, The candidate name is Boon Khin, Rystelle Png. We have removed the comma please ask the candidate to try again thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-319,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3135,7 +3135,7 @@ Name: Jennie Tan\nEmail: 03jnie09@gmail.com
 Evidence comments (id • author_role • date • text):
 25132 • unknown • NaT • Hi Rachael, The draft has been deleted in Prometric and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-320,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3150,7 +3150,7 @@ Evidence comments (id • author_role • date • text):
 25382 • unknown • NaT • Hi Rachael, this candidate has been reinstated. @Shu Ting Ang , you may close this ticket. If you have further clarifications, feel free to reach out. Thank you.
 25384 • unknown • NaT • Hi @Hasan, Thank you for the information. We will close the ticket thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-321,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3165,7 +3165,7 @@ Evidence comments (id • author_role • date • text):
 25114 • unknown • NaT • Zac: Hi @Shu Ting Ang , I have checked with the vendor and conclude this is a ""User Issue"". The secure browser is working fine, and other candidates had no issues. The candidate likely blocked camera/mic permissions or had device issues such as disconnected hardware, privacy settings, antivirus interference, or other apps (like MsTeams) using the devices. If they used an external webcam or mic, it must be connected, up to date drivers recognised by the OS and working before launching the secure browser. Recommended next steps: Ask the candidate to check device connection and permissions, ensure privacy settings allow camera/mic use for all apps, try using a different device or user account, verify no other apps are using the webcam/mic, and restart the computer with devices reconnected before launching the secure browser.
 25153 • unknown • NaT • ST: Hi @Zac Tan , Thank you for the information, we will close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-322,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3177,7 +3177,7 @@ jannathul27@gmail.com - pls delete draft for this candidate to proceed to applic
 Evidence comments (id • author_role • date • text):
 25186 • unknown • NaT • Hi Rabiah, We have deleted the draft in Prometric and cancelled in CRM. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-323,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3199,7 +3199,7 @@ Evidence comments (id • author_role • date • text):
 25476 • unknown • NaT • Hi Rachael, i managed to deactivate on your behalf. Kindly check and let me know if you face any issues.
 26356 • unknown • NaT • Hi Rachael, We will be closing this ticket since there is no further update. Please reopen if required thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-324,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3211,7 +3211,7 @@ Please merge her accounts under her personal email account.\n\nOld email: puvan.
 Evidence comments (id • author_role • date • text):
 25154 • unknown • NaT • Hi Shelby, The merge has been completed. Kindly request for the candidate to complete a one time sign up using puvaneswarri.gunaseelan@outlook.com thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-325,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3227,7 +3227,7 @@ Evidence comments (id • author_role • date • text):
 25667 • unknown • NaT • Hi Rabiah, Please let us know if there is any action required on our end else we will be closing this ticket thank you.
 26358 • unknown • NaT • ST: No response from BU, we will close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-326,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3239,7 +3239,7 @@ Hi Kah Boon, \n\nThanks very much for your help! \n\nFor the email address, coul
 Evidence comments (id • author_role • date • text):
 25158 • unknown • NaT • Hi Kah Boon, The update has been done, kindly ask the candidate to perform a one time sign up using dawntong@gmail.com thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-327,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3251,7 +3251,7 @@ Hi Kah Boon\n\nAttached error to login. Please advise.\n
 Evidence comments (id • author_role • date • text):
 25159 • unknown • NaT • Hi Kah Boon, We have reset her account, kindly ask the candidate to perform a one-time sign up using emmeline.twz@gmail.com. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-328,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3263,7 +3263,7 @@ Candidate email: waisusian@gmail.com to facilitate this application. His assessm
 Evidence comments (id • author_role • date • text):
 25197 • unknown • NaT • Hi Rabiah, We have removed the draft in Prometric. Please note that the candidate current application is created in Talview and status remains as submitted. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-329,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3275,7 +3275,7 @@ Name: Saranjay S/O Manohar\nExisting Email: saranjay_1995@hotmail.com\nNew Email
 Evidence comments (id • author_role • date • text):
 25201 • unknown • NaT • Hi Rachael, Kindly ask the candidate to do a one time sign up using saranjay.manohar@thkmc.org.sg thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-330,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3287,7 +3287,7 @@ Name: Alvin Wong Wei Xiang\nEmail Address: alvin_wong08@hotmail.com\n \nIssue De
 Evidence comments (id • author_role • date • text):
 25203 • unknown • NaT • Hi Jia Rong, Please ask the candidate to delete the current working experience and add in a new record and the data should be reflected correctly thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-331,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3299,7 +3299,7 @@ Name: Lynn Tan\nCurrent email used: ellewhynn@gmail.com\nCorporate email account
 Evidence comments (id • author_role • date • text):
 25204 • unknown • NaT • Hi Rachael, Kindly ask the candidate to do a one time sign up using lynn.tan@thkmc.org.sg
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-332,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3314,7 +3314,7 @@ Evidence comments (id • author_role • date • text):
 25386 • unknown • NaT • Hi Kah Boon, Thank you for the information. We will revert once the deletion has been done thank you.
 25422 • unknown • NaT • Hi Kah Boon, The paid assessment in Prometric has been deleted, please proceed to cancel in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-333,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3330,7 +3330,7 @@ Evidence comments (id • author_role • date • text):
 25345 • unknown • NaT • Hi @Muhammad Hasan , Thank you for the information. We will route this case to the certification team for review.
 25410 • unknown • NaT • Eunice: Referring to the response provided by agent Agniv K, which stated that candidates can reschedule their assessments, we’ve since received multiple complaints—particularly in cases where candidates are asked to cover the rescheduling fee. To prevent any miscommunication to the candidates, we have formally requested Prometric team to adopt this new process and standard reply. For any candidate enquiries related to assessment rescheduling or matters beyond the Prometric Team’s scope, the following standard response will be used: “For escalation of matters relating to assessment, please reach out to hello@ihrp.sg for further assistance.” Confirmed with L1 on wording.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-334,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3351,7 +3351,7 @@ Evidence comments (id • author_role • date • text):
 26337 • unknown • NaT • Candidate informed that she can view the EA link. She rescheduled to 15 Aug for her Competency Assessment. Thanks
 26359 • unknown • NaT • ST: Hi Shelby, Thank you for the information. We will be closing this case therefore please reopen it if there are any issues thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-335,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3372,7 +3372,7 @@ Evidence comments (id • author_role • date • text):
 25651 • unknown • NaT • Hasan: Hi @Shu Ting Ang , Apologies for not attaching the candidate's screenshots, but you may refer to the screenshots attached in Jira. The initial email that was sent out was blocked as noticed by the handle: courts-com-sg.mail.protection.outlook.com, hence the candidate could not receive competency details. The EA Link is present due to a rendering issue as mentioned below, due to the forwarding of emails. You may let her know that she can ignore the link because in our system, she is not assigned EA, since she already initially passed. Hope this clarifies! Thank you.
 25652 • unknown • NaT • ST: Hi @Hasan, Thank you for the information.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-336,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3385,7 +3385,7 @@ Evidence comments (id • author_role • date • text):
 25225 • unknown • NaT • Hi Rabiah, There is a draft for the candidate under shawn.tan.mobile@gmail.com. We will delete it before the update of email address thank you.
 25421 • unknown • NaT • Hi Rabiah, The draft has been deleted. Please ask candidate to perform a one time sign up using shawn.tan@thkmc.org.sg thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-338,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3398,7 +3398,7 @@ Evidence comments (id • author_role • date • text):
 25222 • unknown • NaT • Ready for deployment - 25/6/2025 FYI @Shu Ting Ang
 25379 • unknown • NaT • Eunice: Ticket deployed on 26/6/25 Production testing results attached in Jira. Issue to be monitored: The PDF within the expandable file can be downloaded and saved locally. However, this is not a showstopper, as the candidate is accessing materials from an external site and will not be able to retrieve this source within the secure browser. Additionally, the candidate should still have access to all resources available on the site. Vendor (Ayush) has confirmed that this occurred because the ‘Save As’ window was permitted to prevent the screen from freezing in Secure Browser. As a result, restricting the download functionality is not feasible in this case, since Secure Browser cannot override the default PDF viewing behavior.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-343,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3413,7 +3413,7 @@ Evidence comments (id • author_role • date • text):
 25454 • unknown • NaT • Pending for finance to review, current no action on DTO end. Will proceed to close this ticket.
 25456 • unknown • NaT • Pending for finance to review, current no action on DTO end. Will proceed to close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-346,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3425,7 +3425,7 @@ Problem:
 Evidence comments (id • author_role • date • text):
 25381 • unknown • NaT • Hi Rabiah, Kindly request for the candidate to perform one time sign up using tangtianxin29@gmail.com thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-347,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3437,7 +3437,7 @@ refer to email dtd 23 Jun\n
 Evidence comments (id • author_role • date • text):
 25423 • unknown • NaT • Hi Kah Boon, The drafts has been deleted in Prometric and cancelled in CRM. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-348,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3449,7 +3449,7 @@ Affected User\n\nName: Qing Rong Ang\nEmail Address: ben_q_r_ang@ite.edu.sg\nApp
 Evidence comments (id • author_role • date • text):
 25426 • unknown • NaT • Pending the BU to review, current no action on DTO end. Will proceed to close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-349,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3467,7 +3467,7 @@ Evidence comments (id • author_role • date • text):
 25434 • unknown • NaT • U meant you regenerated and sent it to her email address: claudiasim1997@gmail.com ?
 25436 • unknown • NaT • Hi Shelby, Yes we have regenerated the competency email to claudiasim1997@gmail.com.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-350,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3488,7 +3488,7 @@ Evidence comments (id • author_role • date • text):
 26146 • unknown • NaT • Hi @Kah Boon, the application has been changed to 'submitted'. As part of the workflow in place, an email was triggered to the candidate (Application submitted email) upon updating the status. Kindly inform the candidate to disregard the email. @Shu Ting, no further action on L2. -Joy
 26360 • unknown • NaT • ST: Hi Joy, Thank you for the information. Hi Kah Boon, We will be closing this case thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-351,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3500,7 +3500,7 @@ Name: Wang Wei\nEmail: vincent_wang1984@hotmail.com\n\nName: Wendy Tan\nEmail: w
 Evidence comments (id • author_role • date • text):
 25447 • unknown • NaT • Hi Rachael, All the drafts has been deleted in Prometric and cancel in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-352,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3516,7 +3516,7 @@ Evidence comments (id • author_role • date • text):
 25509 • unknown • NaT • Hi @Shu Ting Ang , The vendor has assisted to change the email address accordingly. Let me know if you require further assistance. Thank you.
 25608 • unknown • NaT • Hi Vidhya, We have updated the candidate’s email address to itsjovelleee@gmail.com in Prometric and regenerated the competency email accordingly. Please inform the candidate, and let us know if any further action is required from our end. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-353,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3528,7 +3528,7 @@ Please see forwarded email. Thanks.
 Evidence comments (id • author_role • date • text):
 25444 • unknown • NaT • Hi Kah Boon, Kindly request for the candidate to upload a document under the HR-Related Qualification or Training Certificate to proceed thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-354,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3550,7 +3550,7 @@ Evidence comments (id • author_role • date • text):
 26342 • unknown • NaT • Its ok, no action needed. i have created the missing application in crm.
 26373 • unknown • NaT • Hi Rachael, Thank you for the update. We will close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-355,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3562,7 +3562,7 @@ Email has been forwarded to TechSupport
 Evidence comments (id • author_role • date • text):
 25675 • unknown • NaT • Hi Kah Boon, May we confirm if candidate has errors with updating of employment details? Please refer to email for the guided steps thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-356,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3575,7 +3575,7 @@ Evidence comments (id • author_role • date • text):
 25674 • unknown • NaT • Hi Rachael, We will revert once it is deleted thank you.
 26070 • unknown • NaT • Hi Rachael, We have deleted the draft in Prometric thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-357,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3608,7 +3608,7 @@ Evidence comments (id • author_role • date • text):
 28293 • unknown • NaT • Hasan: Hi @Shu Ting Ang , This ticket has been deployed, and we will monitor this issue in production. The candidate is already certified as of 1st August 2025. You may proceed to close this ticket. Thank you.
 28301 • unknown • NaT • ST: Hi @Hasan, Thank you for the information, we will close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-358,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3625,7 +3625,7 @@ Evidence comments (id • author_role • date • text):
 25661 • unknown • NaT • Hasan: Hi all, The vendor has assisted to reschedule the created application to 4th July 2025. Please reach out if you require further clarifications or assistance. Thank you. FYI @Shu Ting Ang
 25664 • unknown • NaT • ST: Hi Hasan, Thank you for the information. Hi Kah Boon, We have regenerated the access code please ask the candidate to look at the latest competency email send thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-359,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3637,7 +3637,7 @@ Name: Abdul Qayyum Bin Mohd Mazlan\nExisting email: mail@abdulqm.com \nNew email
 Evidence comments (id • author_role • date • text):
 25678 • unknown • NaT • Hi Rachael, The email address has been updated please request for the candidates to perform one time sign up using the new email thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-360,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3657,7 +3657,7 @@ Evidence comments (id • author_role • date • text):
 26698 • unknown • NaT • Hasan: Hi @Shu Ting Ang , The vendor has updated that: Apple’s update tightened access controls for screen-sharing apps — specifically, permissions under System Settings → Privacy & Security → Screen Recording/Screen Sharing had to be reauthorized. They granted the necessary permissions and functionality has been restored. Please proceed to inform the candidate accordingly. Should there be any further issues, please let me know.
 26733 • unknown • NaT • ST: Hi @Hasan, Thank you for the information. Hi Kah Boon, Please note that this issue appears to be similar to the one reported yesterday. It is related to an Apple software update, which is unfortunately beyond Prometric’s control. However, we are actively exploring possible solutions to address it. In the meantime, kindly proceed to reschedule the candidate. Please also use the updated link below to download the secure browser required for the session. Kindly refer to the email that we have replied Shelby. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-361,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3670,7 +3670,7 @@ Evidence comments (id • author_role • date • text):
 25676 • unknown • NaT • Hi Kah Boon, We will revert once it has been deleted. Please take note for Draft application, you do not need to send in a email to Tech Support thank you.
 26071 • unknown • NaT • Hi Kah Boon, The draft has been deleted in Prometric and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-362,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3684,7 +3684,7 @@ Evidence comments (id • author_role • date • text):
 25842 • unknown • NaT • Hi @Shu Ting Ang , The vendor has assisted to change the email address accordingly. You may close this ticket. Thank you.
 25906 • unknown • NaT • ST: Hi @Hasan, Thank you for the updates. Hi Jia Rong, The email address has been updated, please inform the candidate thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-363,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3696,7 +3696,7 @@ Candidates Name: Janice Ong \nCandidates Email: janiceong33@gmail.com\n\n\nCandi
 Evidence comments (id • author_role • date • text):
 25806 • unknown • NaT • ST: Hi Vidhya. Please find my response to the above enquires. 1. Candidates just need to take a picture of their face and prepare the physical NRIC in cased there is a need to showcase it. 2. If you face any technical difficulty during the assessment or in installing the secure browser before the day of the assessment, please follow the steps below: Go to https://ehelp.prometric.com/ihrp/s/ Refer to the manuals and guides on the page Use the chat messaging function to speak to a live agent. Provide your assessment details (e.g. your date of assessment, mode of assessment, certification level, etc.) 3. There is no test environment. Please download your secure browser early and ensure that there is no hardware issues. It should be at the page that is pending the access code to be keyed in on the day of the assessment. But you may refer to the Pre-Assessment System Checks to ensure that your device fulfilled the following hardware and system requirements before applying for remote assessment Thank you!
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-364,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3715,7 +3715,7 @@ Evidence comments (id • author_role • date • text):
 27006 • unknown • NaT • ST: Pending Prometric to delete the paid reassessment application. Thank you.
 27265 • unknown • NaT • JR: Hi Kah Boon, Prometric has deleted the paid reassessment application. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-365,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3729,7 +3729,7 @@ Evidence comments (id • author_role • date • text):
 26339 • unknown • NaT • Yes
 26347 • unknown • NaT • Hi Rachael, The draft in Prometric has been deleted please proceed to cancel in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-374,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3744,7 +3744,7 @@ Evidence comments (id • author_role • date • text):
 26340 • unknown • NaT • noted
 26379 • unknown • NaT • Hi Zac, Thank you for the information. Hi Rachael, We will be closing this ticket, please reopen it if there is any issues after following the steps thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-375,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3767,7 +3767,7 @@ Evidence comments (id • author_role • date • text):
 27522 • unknown • NaT • Cheryl: Hi @Eunice, do I wait for confirmation on verification from Finance before I reach out to candidate? I will advise candidate to refer to invoice sent on 28/07/2025 at 3:19pm.
 27558 • unknown • NaT • Eunice: Hi @Cheryl , Finance has confirmed that details are all correct. You may let the candidate know to ref to the latest invoice. 28/07/2025 3:19pm is correct.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-376,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3782,7 +3782,7 @@ Evidence comments (id • author_role • date • text):
 26343 • unknown • NaT • Hasan: Hi @Shu Ting Ang , The vendor has assisted to reinstate the application. Thank you.
 26421 • unknown • NaT • ST: Hi @Hasan, Thank you for the information. Hi Kah Boon, We have re-generated the access code to the candidate and we will close the ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-377,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3795,7 +3795,7 @@ Evidence comments (id • author_role • date • text):
 26072 • unknown • NaT • Hi Vidhya, We will delete the draft before reverting.
 26345 • unknown • NaT • Hi Vidhya, The draft in Prometric has been deleted and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-378,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3809,7 +3809,7 @@ Evidence comments (id • author_role • date • text):
 26346 • unknown • NaT • Hi Shelby, The draft in Prometric has been deleted and cancelled in CRM thank you.
 26371 • unknown • NaT • Thank you
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-379,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3821,7 +3821,7 @@ Candidate had passed her assessment and would like to change her current SPH ema
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-380,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3841,7 +3841,7 @@ Evidence comments (id • author_role • date • text):
 26769 • unknown • NaT • ST: Hi @Joycelyn Goh , Thank you for the update. May we confirmed that due to this human intervention. We can proceed to delete the paid assessment in Prometric and update the OA-Failed status to cancel the application in CRM using excel online? Thank you.
 26995 • unknown • NaT • Hi Rachael, Paid application has been deleted in prometric Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-381,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3853,7 +3853,7 @@ Candidate was in the payment page for too long and they could not proceed with t
 Evidence comments (id • author_role • date • text):
 26349 • unknown • NaT • Hi Vidhya, The draft in Prometric has been deleted and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-382,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3866,7 +3866,7 @@ Evidence comments (id • author_role • date • text):
 26147 • unknown • NaT • Hi Rachael, We will revert once the action has been completed thank you.
 26351 • unknown • NaT • Hi Rachael, The drafts in Prometric has been deleted and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-383,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3878,7 +3878,7 @@ She mentioned that she emailed to hello@ihrp.sg as she faced payment error when 
 Evidence comments (id • author_role • date • text):
 26338 • unknown • NaT • Hi Vidhya, We located two email sent to Hello and Tech Support from yanping14@hotmail.com, with a similar inquiry. The first ticket, #99888, concluded with our response on 8 July at 12:41 PM, where we requested a screenshot of the error to assist further. As of now, the candidate has not responded. The second ticket, #99889, was addressed by Alisha, who clarified that the issue stemmed from the assessment date selected in conjunction with the SFC payment method. The candidate must choose an assessment date within 60 days of the application date. We are currently awaiting the candidate’s response on whether she can select a new date. If not, we will proceed to delete the draft to allow her to reapply. Please let us know if further action is required and reopen this ticket thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-384,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3899,7 +3899,7 @@ Evidence comments (id • author_role • date • text):
 26633 • unknown • NaT • Hasan: Vendor has replied stating: This cause was not generated on their system, causing them to be unable to identify the root cause the candidate's issue at that time. They could not trace any technical issues on their end. Feel free to reach out if you have any clarifications. Thank you. FYI, @Shu Ting Ang , @Eunice Chiang
 26643 • unknown • NaT • ST: Hi Hasan and Eunice, Thank you for the information. We will informed BU to reschedule the candidate thank you. Hi Shelby, We will paste the same information in the email for your review thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-385,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3912,7 +3912,7 @@ Evidence comments (id • author_role • date • text):
 26381 • unknown • NaT • Hi Rabiah, We will revert upon deletion.
 26407 • unknown • NaT • Hi Rabiah, We have deleted the paid assessment in Prometric, please proceed to cancel the application in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-386,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3925,7 +3925,7 @@ Evidence comments (id • author_role • date • text):
 26382 • unknown • NaT • Hi Rabiah, Could you request for the candidate to provide the screenshot of the error and proceed to forward to tech support email indicating this is the issues mentioned in Trackify ticket 386 for us to assist further thank you.
 26415 • unknown • NaT • Hi Rabiah, As discussed we have resolved this issue and will be closing the case.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-387,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3938,7 +3938,7 @@ Evidence comments (id • author_role • date • text):
 26383 • unknown • NaT • Hi Shelby, We will revert after the draft has been deleted.
 26408 • unknown • NaT • Hi Shelby, The draft has been deleted in Prometric and cancelled in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-388,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3957,7 +3957,7 @@ Evidence comments (id • author_role • date • text):
 26468 • unknown • NaT • Eunice: Hi All, BU has successfully created a manual application for this candidate and Prometric has assisted to reschedule to 16th July CBT assessment. With that, we will proceed to close the case.
 26478 • unknown • NaT • ST: Hi Eunice, Thank you for the information.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-389,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3974,7 +3974,7 @@ Evidence comments (id • author_role • date • text):
 26450 • unknown • NaT • Hi @Shu Ting Ang , Prometric has made the changes to both the email and name. Please proceed to inform the candidate. Feel free if you require further assistance. Thank you.
 26456 • unknown • NaT • Hi @Hasan, Thank you for the information.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-390,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -3987,7 +3987,7 @@ Evidence comments (id • author_role • date • text):
 26384 • unknown • NaT • Hi Rabiah, We are unable to find shawn.tan.mobile@gmail.com in both CRM and Prometric. Please advise thank you.
 26385 • unknown • NaT • Please refer to as you have raised earlier. We will procced to close this ticket. Thank you,
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-391,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4000,7 +4000,7 @@ Evidence comments (id • author_role • date • text):
 26409 • unknown • NaT • Hi Rabiah, We will revert upon completion.
 26495 • unknown • NaT • Hi Rabiah, The draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-392,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4014,7 +4014,7 @@ Evidence comments (id • author_role • date • text):
 26473 • unknown • NaT • Joy - Hi @Alisha, this is resolved. This ticket is related to and we noticed that the contact was not picked up during the rectification. You may refer to for more details. While we have requested the vendor to review the rectification list again, we have manually corrected the CPD hours for this candidate. Please le us know if there are further actions required from L2.
 26642 • unknown • NaT • ST: Hi @Joy, Thank you for the information, we will reached out to the candidate.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-393,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4030,7 +4030,7 @@ Evidence comments (id • author_role • date • text):
 26466 • unknown • NaT • Hasan: Hi @Shu Ting Ang , I can confirm that since the email has been updated, she should be able to perform a reassessment application. Should further issues arise with this candidate, feel free to let me know.
 26479 • unknown • NaT • ST: Hi @Hasan, Thank you for the information.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-394,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4052,7 +4052,7 @@ Evidence comments (id • author_role • date • text):
 26999 • unknown • NaT • can proceed to close the case as i managed to create the application for her. thank you.
 27000 • unknown • NaT • ST: Hi Eunice, Thank you for the update. Hi Rachael, Noted on the above, we will close this ticket thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-395,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4065,7 +4065,7 @@ Evidence comments (id • author_role • date • text):
 26411 • unknown • NaT • Hi Rachael, We will revert once the action has been complete. Thank you.
 26497 • unknown • NaT • Hi Rachael, The draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-396,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4081,7 +4081,7 @@ Evidence comments (id • author_role • date • text):
 26599 • unknown • NaT • Eunice: Hi Rabiah, We have confirmed with the vendor that this issue is related to the issue raised in - where the candidate launch the EA assessment using the initial competency assessment email link. Back then, there was no system restriction to block user to continue the EA attempt in the incorrect link. Kindly note that this issue has been resolved back in May and this candidate is one of the impacted users. For rectification - we have gotten Sachrit's approval to remove the EA entry and the candidate can now proceed to attempt her EA on Prometric. Kindly proceed to inform candidate to use the EA link from the email sent from Prometric dated 27-06-2025 and let us know if there are any issues. @Muhammad Hasan - please work with BU and close this ticket once issue is resolved.
 26648 • unknown • NaT • Hi Eunice, Thank you for the information. Hi Rabiah, Please inform the candidate and reopen this ticket if there is any more issues thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-397,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4093,7 +4093,7 @@ Candidate has two records with us as per below. Can you delete this - ajconsults
 Evidence comments (id • author_role • date • text):
 26414 • unknown • NaT • Hi Rabiah, Please ask the candidate to perform one time sign up via ameliaho@ajconsultancy.com.sg thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-398,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4106,7 +4106,7 @@ Evidence comments (id • author_role • date • text):
 26437 • unknown • NaT • Hi Kah Boon, Please ask the candidate to refresh and clear cache and try again. Please take note this is the candidate third attempt in this year. May we have your advise on the certification policy on: You can attempt an IHRP paper a maximum of three times within a one-year period. If you fail a paper, you only need to retake the failed paper, not the entire assessment Thank you.
 26653 • unknown • NaT • Hi Kah Boon, Please reopen the ticket if the candidate still have issues thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-399,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4121,7 +4121,7 @@ Evidence comments (id • author_role • date • text):
 26647 • unknown • NaT • Hi Rabiah, As discussed, we will find out why the record was reinstated before reverting. Thank you.
 26680 • unknown • NaT • Hi Rabiah, The draft has been deleted in Prometric thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-400,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4137,7 +4137,7 @@ Evidence comments (id • author_role • date • text):
 26460 • unknown • NaT • Hasan: Hi @Shu Ting Ang , The vendor has assisted to change the candidate's ID. Please proceed to attempt to perform a reassessment application. Thank you.
 26474 • unknown • NaT • ST: Hi @Hasan, Thank you for the information. Hi Kah Boon, Please proceed to attempt to perform a reassessment application. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-408,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4158,7 +4158,7 @@ Evidence comments (id • author_role • date • text):
 28205 • unknown • NaT • ST: Hi @Hasan, Is this a internal process update? Then we will not look into this as a operational issues thank you.
 28227 • unknown • NaT • Hasan: Hi @Shu Ting Ang , We are developing a step-by-step installation guide for candidates. This is not considered as operational issues, but more of an internal process fix of laptops. Feel free to reach out if you require further clarification. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-409,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4175,7 +4175,7 @@ Evidence comments (id • author_role • date • text):
 26671 • unknown • NaT • Joy: Hi Shu Ting, in that case, the IHRP-SP application should first be deactivated to allow the candidate to submit a new application. An internal remark should be added to the application to document this. Once the candidate has submitted the new application, it can then be reactivated.
 26681 • unknown • NaT • ST: Hi @Joycelyn Goh Thank you for the information, we will close this ticket.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-410,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4194,7 +4194,7 @@ Evidence comments (id • author_role • date • text):
 26745 • unknown • NaT • ST: Hi Joy, Thank you for the information, with that we will close this case thank you.
 28297 • unknown • NaT • JG: Hi All, FYI - we have deployed the latest version of the secure browser for Intel and M1 Chip into production.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-411,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4208,7 +4208,7 @@ Evidence comments (id • author_role • date • text):
 26652 • unknown • NaT • Hi Shu Ting, yes, this is to confirm the deletion of the paid application. Thanks!
 26677 • unknown • NaT • Hi Kah Boon, The draft has been deleted in Prometric please proceed accordingly thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-412,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4221,7 +4221,7 @@ Evidence comments (id • author_role • date • text):
 26573 • unknown • NaT • Hi Vidhya, May I check which date you have rescheduled the assessment as currently both CRM and Prometric is showing 11/8/25 thank you.
 26734 • unknown • NaT • Hi Vidhya, Any updates on the above? Kindly reopen this ticket for us to assist further thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-413,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4233,7 +4233,7 @@ In Prometric, has reflected she cleared all papers but yet to be certified in CR
 Evidence comments (id • author_role • date • text):
 26574 • unknown • NaT • Hi Kah Boon, Is the candidate using keertigk13@gmail.com for application. If yes then the candidate has not cleared all the papers and the same case is being clocked in ticket 396 by Rabiah. If it is not, kindly reopen this ticket thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-414,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4246,7 +4246,7 @@ Evidence comments (id • author_role • date • text):
 26575 • unknown • NaT • Hi Vidhya, The candidate has selected a assessment date on 12/1/26. The fee list is null now and also if she is using SFC the assessment date is too far off. We will revert upon deletion.
 26676 • unknown • NaT • Hi Vidhya, The draft has been deleted in Prometric and cancelled in CRM. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-415,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4258,7 +4258,7 @@ Please change email address from mykoh002@suss.edu.sg to meiyi9787@gmail.com\n\n
 Evidence comments (id • author_role • date • text):
 26576 • unknown • NaT • Hi Shelby, The email address has been merged. Please ask the candidate to perform one time sign up using meiyi9787@gmail.com thank you
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-416,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4271,7 +4271,7 @@ Evidence comments (id • author_role • date • text):
 26577 • unknown • NaT • Hi Kah Boon, We will revert once it is done thank you.
 26678 • unknown • NaT • Hi Kah Boon, The draft has been deleted and cancelled thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-417,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4285,7 +4285,7 @@ Evidence comments (id • author_role • date • text):
 26651 • unknown • NaT • Hi Shu Ting, Yes, her corporate email is sharon.yeow@dtcworld.com. Thanks!
 26654 • unknown • NaT • Hi Kah Boon, We have checked that the backend is tie to sharonyeow.hm@gmail.com. The candidate has actually change it to sharon.yeow@dtcworld.com. We have revert it back, kindly ask the candidate to do a one time sign up using sharonyeow.hm@gmail.com thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-418,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4301,7 +4301,7 @@ Evidence comments (id • author_role • date • text):
 26715 • unknown • NaT • ST: Hi @Hasan, Thank you for the information. We will follow up with the candidate accordingly.
 26732 • unknown • NaT • ST: Hi Hasan, Thank you for the information. Hi Kah Boon, Please note that this issue appears to be similar to the one reported yesterday. It is related to an Apple software update, which is unfortunately beyond Prometric’s control. However, we are actively exploring possible solutions to address it. In the meantime, kindly proceed to reschedule the candidate. Please also share with the candidate to use the updated link below to download the secure browser required for the session. You may refer to the link shared with Shelby. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-419,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4334,7 +4334,7 @@ Evidence comments (id • author_role • date • text):
 28292 • unknown • NaT • Hasan: Hi @Shu Ting Ang , This ticket has been deployed to Production, we have closed this ticket on our end and will monitor this fix in Production. Please proceed to let the candidates know to try reapplying again, for those who haven't reapplied. Feel free to reach out if you require any further clarification. Thank you.
 28303 • unknown • NaT • ST: Hi @Hasan, Thank you for the information. We will proceed to inform the certification team and revert if there is more issues thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-420,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4346,7 +4346,7 @@ Another case to investigate. Appreciate your help please
 Evidence comments (id • author_role • date • text):
 26635 • unknown • NaT • Hi Shelby, Please refer to Ticket 419 for more updates thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-421,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4359,7 +4359,7 @@ Evidence comments (id • author_role • date • text):
 26639 • unknown • NaT • ST: Hi Shelby, For this case, the issue differs from the others. Based on Kah Boon's comment, the candidate mistakenly submitted her application in Prometric for the 30 April assessment. The correct assessment should have been taken via Talview on 29 April 2024 (KB_24Apr24). We will proceed to delete the paid fresh application in Prometric before reverting. As the candidate’s data has already been migrated, she will be able to proceed with the reassessment after the deletion. Kindly note that the BU will need to remove the Assessment Schedule Date of 30 April 2024 in CRM and retain only the Talview slot. Thank you.
 26679 • unknown • NaT • Hi Shelby, We have removed the paid assessment in Prometric. Kindly note that the BU will need to remove the Assessment Schedule Date of 30 April 2024 in CRM and retain only the Talview slot. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-422,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4375,7 +4375,7 @@ Evidence comments (id • author_role • date • text):
 26760 • unknown • NaT • Hasan: Hi @Shu Ting Ang , The vendor has assisted to reinstate the application. Please revert to Shelby. Thank you!
 26766 • unknown • NaT • ST: Hi @Hasan, Thank you for the assistance. Hi Shelby, The assessment has been reinstated and we have regenerated the access code, kindly follow up with the candidate thank you,
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-423,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4391,7 +4391,7 @@ Evidence comments (id • author_role • date • text):
 27024 • unknown • NaT • Hi Shelby, Upon your confirmation via teams we will delete the application in Prometric thank you.
 27268 • unknown • NaT • JR: Hi Shelby, The paid application has been deleted in Prometric. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-424,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4418,7 +4418,7 @@ Evidence comments (id • author_role • date • text):
 28072 • unknown • NaT • Eunice: Hi @Shu Ting Ang , The KT that Hasan was referring to is on the thread titled: Candidates face Email rendering issues when forwarded - However, please allow us more time to review the case wholistically as the behaviour doesn't seem to be the same as the previous causes logged in POI 335. Based on my analysis and reviewing the candidate’s SS provided, there is no form of email forwarding performed. When L1 regenerated the access code to her Gmail account, the received email showed IHRP-CA instead of IHRP-CP. However, I noticed that the screenshot provided shows the email was opened using the ‘Mail’ app from the App Store, suggesting that her Gmail is linked to this app. With that, we dropped an email to Prometric to confirm whether such a setup could result in discrepancies in how the HTML content is displayed. If yes, then this will fall into the additional information and KT that we will share with L1 for such cases moving ahead. Regarding a permanent fix, please note that based on POI 335, it is very difficult to implement such a fix as there are many variables out of the vendor's capabilities now, and this is a UI issue that does not impact candidate's assessment journey. Regarding an update to candidate, I noticed that candidate has already completed her full assessment, hence, i suggest just providing an update that IHRP noted and acknowledged on this email UI issue, and is working on it internally. I don't see any further updates required to be shared with the candidate on this. With that, i suggest we close the case for monitoring and we will update L1 if there are additional KT information or no further action can be done. FYI @Muhammad Hasan , please take note on such details when you investigate. You are missing out the details in the candidate's SS.
 28203 • unknown • NaT • ST: Hi @Eunice Chiang , Thank you for the information. We have informed the candidate that an internal fix is currently in progress. As mentioned, the candidate has successfully completed the assessment and is now certified. Accordingly, we will proceed to close this case for monitoring purposes. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-425,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4430,7 +4430,7 @@ Please change the email address from 18044558@myrp.edu.sg to gabrielgoh2013@gmai
 Evidence comments (id • author_role • date • text):
 26737 • unknown • NaT • Hi Shelby, We have updated the email address, please ask candidate to perform a one time sign up using gabrielgoh2013@gmail.com thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-426,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4442,7 +4442,7 @@ Name: Ng Wei Xiang \nEmail: ng_wei_xiang@hotmail.com\n
 Evidence comments (id • author_role • date • text):
 26928 • unknown • NaT • Hi Rachael, The draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-427,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4454,7 +4454,7 @@ Name: Anne Lee\nEmail: annelee.yeonmee@gmail.com
 Evidence comments (id • author_role • date • text):
 26929 • unknown • NaT • Hi Rachael, The draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-428,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4466,7 +4466,7 @@ Name: Tang Enping Grace\nEmail: grace@leaps.sg
 Evidence comments (id • author_role • date • text):
 26930 • unknown • NaT • Hi Rachael, The draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-434,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4478,7 +4478,7 @@ Hi L1, please help me to remove the following draft applications for the test ac
 Evidence comments (id • author_role • date • text):
 26931 • unknown • NaT • Hi Joy, The draft has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-435,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4490,7 +4490,7 @@ Hi DTO, I was checking a candidates assessment date and time in the CRM and it i
 Evidence comments (id • author_role • date • text):
 26739 • unknown • NaT • Hi Vidhya, May we check where you found the assessment date and time in CRM that is reflecting as 1:00AM - 5:00AM? Based on our checks in CRM it is showing an assessment on 1/8/25 from 9:00AM - 1:00PM. Could you provide a screenshot for us to assist further? Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-436,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4502,7 +4502,7 @@ Name: Wong Jeh Ni\nEmail: jehni.wong@gmail.com
 Evidence comments (id • author_role • date • text):
 27008 • unknown • NaT • Hi Rachael, The draft in Prometric has been deleted thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-437,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4514,7 +4514,7 @@ Candidate tried to download the secure browser and encountered the error message
 Evidence comments (id • author_role • date • text):
 26743 • unknown • NaT • Hi Vidhya, Could you kindly direct the candidate to reach out to ehelp via this link https://ihrp.learnworlds.com/prepassessment else If you face any technical difficulty during the assessment or in installing the secure browser before the day of the assessment, please follow the steps below: Go to https://ehelp.prometric.com/ihrp/s/ Refer to the manuals and guides on the page Use the chat messaging function to speak to a live agent. Provide your assessment details (e.g. your date of assessment, mode of assessment, certification level, etc.). If ehelp is unable to advise please provide us the screenshot of the error for us to assist further. Kindly reopen this ticket if required thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-438,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4528,7 +4528,7 @@ Evidence comments (id • author_role • date • text):
 26771 • unknown • NaT • HI Shu Ting, Yes, delete. thank you.
 26994 • unknown • NaT • Hi Rachael, Paid Application deleted in prometric Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-439,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4549,7 +4549,7 @@ Evidence comments (id • author_role • date • text):
 28202 • unknown • NaT • ST: Hi all, Rabiah has reverted to our email that she has given until next Wednesday for the candidates to get back to us on their preferred email address to retain for application thank you.
 28325 • unknown • NaT • ST: Hi Shelby and Team, May we check if the candidates has reverted? Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-443,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4561,7 +4561,7 @@ Kindly please delete this candidates' draft application so that they can reapply
 Evidence comments (id • author_role • date • text):
 26997 • unknown • NaT • JR: Hi Vidhya, Draft Application has been deleted in prometric and CRM Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-444,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4574,7 +4574,7 @@ Evidence comments (id • author_role • date • text):
 26801 • unknown • NaT • Hi Vidhya, As mentioned if the candidate is using SFC for payment, the assessment date selected must be within 30 days from date of application. We will delete the draft and revert thank you.
 26998 • unknown • NaT • JR: Hi Vidhya, Draft Application has been cancelled in CRM and Prometric Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-445,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4586,7 +4586,7 @@ Kindly please delete this candidates' draft application so that they can reapply
 Evidence comments (id • author_role • date • text):
 26802 • unknown • NaT • Hi Vidhya, We are unable to find a account and draft tie to this email. Kindly advise thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-446,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4598,7 +4598,7 @@ chrisleu84@gmail.com\ndiptshek@gmail.com\n\npls delete these draft in prometrics
 Evidence comments (id • author_role • date • text):
 27002 • unknown • NaT • JR: Hi Rabiah, The Draft Applications has been deleted in prometric and CRM. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-447,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4610,7 +4610,7 @@ an email has been sent to techsupport.
 Evidence comments (id • author_role • date • text):
 27009 • unknown • NaT • Hi Kah Boon, We are unable to find any ticket in Freskdesk tech support mailbox. Kindly provide us the ticket number and reopen this ticket for us to assist further thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-448,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4622,7 +4622,7 @@ an email has been sent to techsupport. Thanks.
 Evidence comments (id • author_role • date • text):
 27010 • unknown • NaT • Hi Kah Boon, The candidate has reached out via ticket 101791 for the merge, hence we will close this ticket thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-449,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4634,7 +4634,7 @@ test ticket pulling jira
 Evidence comments (id • author_role • date • text):
 
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-450,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4646,7 +4646,7 @@ Please delete the draft appln so that candidate can proceed with fresh appln. Th
 Evidence comments (id • author_role • date • text):
 26895 • unknown • NaT • Hi Shelby, After checking there is no draft for this candidate. The assessment has been scheduled please reopen the ticket if you required further assistance Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-451,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4660,7 +4660,7 @@ Evidence comments (id • author_role • date • text):
 27473 • unknown • NaT • Hi Shelby, May we have your confirmation to proceed in updating and removing '/' reflected under the candidate's name? Thanks
 27703 • unknown • NaT • Cheryl: Hi Shelby, we have updated the name and will proceed to close this case. Rachael is currently managing this candidate's application. Thanks.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-452,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4672,7 +4672,7 @@ Description\nKindly please delete this candidates' draft application so that the
 Evidence comments (id • author_role • date • text):
 26896 • unknown • NaT • Hi Vidhya, Shelby has raised the same request, kindly refer to ticket 466 for updates.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-453,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4684,7 +4684,7 @@ Email has been sent to techsupport. Thanks!
 Evidence comments (id • author_role • date • text):
 27013 • unknown • NaT • Hi Kah Boon, We have added in this candidate to the impacted list please refer to ticket thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-454,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4705,7 +4705,7 @@ Evidence comments (id • author_role • date • text):
 27956 • unknown • NaT • Eunice: Ticket is ready for deployment. Tentative schedule production deployment on 18 August, 7pm SGT. Will update again.
 28287 • unknown • NaT • ST: Hi @ Hasan, Any updates on the above thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-457,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4719,7 +4719,7 @@ Evidence comments (id • author_role • date • text):
 27260 • unknown • NaT • Hi @Cheryl , @Shu Ting Ang The vendor has assisted to change the candidate's email. Feel free to reach out if you have any further clarifications.
 27468 • unknown • NaT • Hi Hasan, Thanks! Hi Rachael, Candidate's email has been updated in CRM and Prometric. We will proceed to close this case accordingly. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-458,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4735,7 +4735,7 @@ Evidence comments (id • author_role • date • text):
 27689 • unknown • NaT • Joy: Alisha, the main issue has been resolved. Fix: Intelegain has updated the web template code. We have added the following condition: If the application is active, it will show the popup. If the application is active and the application status is Certified, it will not show the popup and will redirect to the recertification page Please let us know if there's further action required from L2.
 28201 • unknown • NaT • ST: Hi @Joy, Thank you for the information. We will inform the candidates and follow up on the above thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-459,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4749,7 +4749,7 @@ Evidence comments (id • author_role • date • text):
 27259 • unknown • NaT • Hi @Cheryl , The vendor has assisted to update the candidate's email in Prometric. Feel free if you have any further clarifications.
 27469 • unknown • NaT • Hi Hasan, Thanks for your help! Hi Vidhya, We have assist to update candidates email in both CRM and Prometric. We will proceed to close this case. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-460,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4761,7 +4761,7 @@ Kindly please delete this candidates' draft application so that they can reapply
 Evidence comments (id • author_role • date • text):
 27266 • unknown • NaT • JR: Hi Vidhya, The draft application has been cancelled and deleted in CRM and Prometric respectively. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-461,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4773,7 +4773,7 @@ Kindly please delete this candidates' draft application so that they can reapply
 Evidence comments (id • author_role • date • text):
 27267 • unknown • NaT • JR: Hi Vidhya, The draft application has been cancelled and deleted in both CRM and Prometric. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-465,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4785,7 +4785,7 @@ Kindly please delete this candidates' draft application so that they can reapply
 Evidence comments (id • author_role • date • text):
 27025 • unknown • NaT • Hi Vidhya, There is no draft in Prometric and we have cancel the draft in CRM thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-467,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4798,7 +4798,7 @@ Evidence comments (id • author_role • date • text):
 27225 • unknown • NaT • Hi Rabiah, Thank you for reaching out to us. We will assist to update the email address, once completed, we will inform you accordingly. Thank you.
 27704 • unknown • NaT • Cheryl: Hi Rabiah, email has been updated and you may inform candidate to do a one-time sign up. Thanks
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-468,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4815,7 +4815,7 @@ Evidence comments (id • author_role • date • text):
 27489 • unknown • NaT • Hi @Cheryl , The vendor has assisted to reinstate the candidate's application. Feel free if you need any further clarifications, or if any further issues faced, do let me know. Thank you.
 27523 • unknown • NaT • Hi @Hasan, Thanks! Hi Rachael, please note that we have reinstate candidate's application in Prometric. We will proceed to close this case at our end. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-469,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4828,7 +4828,7 @@ Evidence comments (id • author_role • date • text):
 27228 • unknown • NaT • Hi Rachael, Thank you for reaching out to us. We have raised this to Prometric for them to delete the draft, once completed, we will inform you accordingly. Thank you.
 27456 • unknown • NaT • JR: Hi Rachael, The candidate draft application has been deleted in CRM and Prometric. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-473,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4841,7 +4841,7 @@ Evidence comments (id • author_role • date • text):
 27324 • unknown • NaT • Hi Rabiah, Thank you for reaching out to us. We will assist to merge the account to brandon_heng01@hotmail.com and will inform you once is done. Thank you.
 27466 • unknown • NaT • Hi Rabiah, We have assist to merge the account, kindly advise the candidate to do a one-time sign up by clicking on ""Sign Up Now"" button. Thanks We will proceed to close this case at our end.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-474,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4854,7 +4854,7 @@ Evidence comments (id • author_role • date • text):
 27392 • unknown • NaT • Hi Rachael, Thank you for reaching out. We will assist to escalate to Prometric to delete the draft application, once completed, we will inform you accordingly. Thank you.
 27457 • unknown • NaT • JR: Hi Rachael, All candidates draft has been cancelled and removed in CRM and Prometric Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
 "
 POI-475,"You are a support summarizer.
 Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
@@ -4866,5 +4866,18 @@ Can you give me an issue to do?
 Evidence comments (id • author_role • date • text):
 27393 • unknown • NaT • Hi Rabiah, Thank you for reaching out. Upon checking, we are unable to find any records in CRM with email: blurangel29@yahoo.com.sg. The email address that is current active in the system is siewmeichor@yahoo.com.sg. I noticed that my team has update her email at the backend from blurangel29@yahoo.com.sg to siewmeichor@yahoo.com.sg. Please advise candidate to do a one-time sign up using email siewmeichor@yahoo.com.sg to log in. We will proceed to close this case at our end. Thank you.
 
-Today’s date: 2025-09-02
+Today’s date: 2025-09-08
+"
+POI-476,"You are a support summarizer.
+Given a helpdesk Problem and evidence comments, produce a short, user-facing resolution in JSON.
+(Template kept for future LLM use.)
+
+Problem:
+test ticket pulling jira
+
+Evidence comments (id • author_role • date • text):
+27463 • unknown • NaT • Hi Rabiah, Thank you for reaching out to us. We will assist to merge the emails and have it reflected as giselle.eyo@oceanmaster.com.sg. Once done, we will update you accordingly. Thank you.
+27577 • unknown • NaT • Hi Rabiah, Email has been merged. Candidate may do a one-time sign up. We will close this case. Thank you.
+
+Today’s date: 2025-09-08
 "
