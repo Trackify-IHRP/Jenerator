@@ -10,7 +10,7 @@ def orchestrator_function(context: df.DurableOrchestrationContext):
     yield context.call_activity("run_train", "go")
     rows = yield context.call_activity("run_extract", "go")
 
-    # Orchestrator must return JSON-serializable data
+    # Orchestrator must return JSON-serializable data...
     return rows
 
 main = df.Orchestrator.create(orchestrator_function)
