@@ -1,35 +1,33 @@
-name: Deploy Azure Functions (Python)
- 
+name: Deploy Functions
+
 on:
   push:
-    branches: [ "main" ]
-  workflow_dispatch:
- 
+    branches: [ main ]
+
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
- 
-    env:
-      PYTHON_VERSION: "3.12"
- 
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
- 
-      - name: Setup Python
+
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: ${{ env.PYTHON_VERSION }}
- 
-      - name: Install dependencies (optional local build/test)
+          python-version: '3.12'
+
+      - name: Install func core tools (for build)
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
- 
-      # Deploy using publish profile (server-side build with Oryx)
+          npm i -g azure-functions-core-tools@4 --unsafe-perm true
+
+      # Optional: build wheels locally if you want, otherwise Kudu will pip install
+      # - name: Install deps
+      #   run: pip install -r requirements.txt
+
       - name: Deploy to Azure Functions
         uses: azure/functions-action@v1
         with:
-          app-name: YOUR_FUNCTION_APP_NAME   # <-- Replace once or pass via repo var
+          app-name: jenerator
+          package: .
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
-          package: '.'
