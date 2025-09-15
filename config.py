@@ -62,7 +62,7 @@ COMMENT_COLS = {
 }
 
 # LLM SETTINGS (leave as "none" to skip calling any model)
-LLM_PROVIDER = "openai"          # "none" | "openai" | "azure"
+LLM_PROVIDER = "openai"          
 OPENAI_MODEL = "gpt-4o-mini"
 
 # Limit how many comments per ticket we include in the prompt

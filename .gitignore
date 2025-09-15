@@ -8,7 +8,7 @@ __pycache__/
 .python-version
  
 # VS Code / local
-.vscode/
+
 local.settings.json
  
 # OS
@@ -18,3 +18,4 @@ Thumbs.db
 # Azure Functions
 .bin/
 obj/
+.python_packages
