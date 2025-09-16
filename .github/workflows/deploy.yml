@@ -23,7 +23,7 @@ jobs:
 
       # Optional: build wheels locally if you want, otherwise Kudu will pip install
       # - name: Install deps
-      #   run: pip install -r requirements.txt...
+      #   run: pip install -r requirements.txt
 
       - name: Deploy to Azure Functions
         uses: azure/functions-action@v1
