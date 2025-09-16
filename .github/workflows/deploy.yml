@@ -1,4 +1,4 @@
-name: Deploy Functions
+name: Deploy Functions (Flex, OIDC)
 
 on:
   push:
@@ -7,21 +7,25 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write   # <-- required for OIDC
+      contents: read
     steps:
       - uses: actions/checkout@v4
 
-      # Optional: set up your language/tooling for pre-builds (not required for remote build)
-      - uses: actions/setup-python@v5
+      # (Optional) build your app here (pip install/dotnet publish/npm build)
+
+      - name: Azure login (OIDC)
+        uses: azure/login@v2
         with:
-          python-version: '3.12'
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENT_ID_f62c05ff-f18d-456c-b54d-e5a1d5ee010c }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANT_ID_7dae6b7e-a024-4264-bf0b-f8cc2bc79204 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTION_ID_48661f75-808e-4247-8abc-a0eb8061f568 }}
 
-      # Optional: only if you need local build steps; Flex supports remote build
-      # - run: pip install -r requirements.txt
-
-      - name: Deploy to Azure Functions (Flex + Publish Profile)
+      # Deploy via the official action, no publish profile, tell it Flex
+      - name: Deploy to Azure Functions (Flex)
         uses: Azure/functions-action@v1
         with:
           app-name: jenerator
           package: .
-          sku: flexconsumption          # <-- required for Flex when using publish-profile
-          publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
+          sku: flexconsumption
