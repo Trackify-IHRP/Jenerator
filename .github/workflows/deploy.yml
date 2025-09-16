@@ -13,8 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # (Optional) build your app here (pip install/dotnet publish/npm build)
-
       - name: Azure login (OIDC)
         uses: azure/login@v2
         with:
