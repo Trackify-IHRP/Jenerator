@@ -18,9 +18,9 @@ jobs:
       - name: Azure login (OIDC)
         uses: azure/login@v2
         with:
-          client-id: ${{ secrets.AZURE_CLIENT_ID_f62c05ff-f18d-456c-b54d-e5a1d5ee010c }}
-          tenant-id: ${{ secrets.AZURE_TENANT_ID_7dae6b7e-a024-4264-bf0b-f8cc2bc79204 }}
-          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID_48661f75-808e-4247-8abc-a0eb8061f568 }}
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
 
       # Deploy via the official action, no publish profile, tell it Flex
       - name: Deploy to Azure Functions (Flex)
