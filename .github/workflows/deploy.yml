@@ -7,27 +7,21 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      # Optional: set up your language/tooling for pre-builds (not required for remote build)
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Install func core tools (for build)
-        run: |
-          npm i -g azure-functions-core-tools@4 --unsafe-perm true
+      # Optional: only if you need local build steps; Flex supports remote build
+      # - run: pip install -r requirements.txt
 
-      # Optional: build wheels locally if you want, otherwise Kudu will pip install
-      # - name: Install deps
-      #   run: pip install -r requirements.txt
-
-      - name: Deploy to Azure Functions
-        uses: azure/functions-action@v1
+      - name: Deploy to Azure Functions (Flex + Publish Profile)
+        uses: Azure/functions-action@v1
         with:
           app-name: jenerator
           package: .
+          sku: flexconsumption          # <-- required for Flex when using publish-profile
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}

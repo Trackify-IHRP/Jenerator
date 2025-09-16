@@ -44,7 +44,8 @@ def search_http(req: func.HttpRequest) -> func.HttpResponse:
         if not query:
             return func.HttpResponse("Missing 'query'.", status_code=400)
 
-        # Build retriever like test_search.cmd_query
+        # Build retriever like test_search.cmd_query Export-AzResourceGroup -ResourceGroupName jenerator_group -Resource /subscriptions/48661f75-808e-4247-8abc-a0eb8061f568/resourceGroups/jenerator_group/providers/Microsoft.Web/sites/jenerator
+
         df = TS.load_kb()
         retriever = TS.HybridRetriever(df)
         idx_path = TS.OUT_DIR / "hybrid.index"
