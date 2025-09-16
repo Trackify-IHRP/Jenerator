@@ -6,7 +6,7 @@ import test_search as TS  # <-- your file
 
 app = func.FunctionApp()
 
-# Health check (you already have this)
+# Health check
 @app.route(route="hello", auth_level=func.AuthLevel.ANONYMOUS)
 def hello(req: func.HttpRequest) -> func.HttpResponse:
     name = req.params.get("name", "world")
