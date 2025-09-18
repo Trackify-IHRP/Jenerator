@@ -27,3 +27,4 @@ jobs:
           app-name: jenerator
           package: .
           sku: flexconsumption
+          scm-do-build-during-deployment: true
