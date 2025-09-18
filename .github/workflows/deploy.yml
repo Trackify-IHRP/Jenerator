@@ -8,22 +8,26 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      id-token: write   # <-- required for OIDC
+      id-token: write
       contents: read
 
     steps:
+      # Checkout repo
       - uses: actions/checkout@v4
 
+      # Set up Python 3.12
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'   # Flex supports 3.10+
+          python-version: '3.12'
 
-      - name: Install dependencies into .python_packages
+      # Install dependencies into .python_packages
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt --target=".python_packages/lib/site-packages"
 
+      # Log in to Azure with OIDC
       - name: Azure login (OIDC)
         uses: azure/login@v2
         with:
@@ -31,9 +35,15 @@ jobs:
           tenant-id: ${{ secrets.AZURE_TENANT_ID }}
           subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
 
+      # Deploy to Azure Functions (Flex Consumption)
       - name: Deploy to Azure Functions (Flex)
         uses: Azure/functions-action@v1
         with:
           app-name: jenerator
           package: .
           sku: flexconsumption
+
+      # Verify runtime after deployment
+      - name: Check runtime after deploy
+        run: |
+          az functionapp show -g jenerator_group -n jenerator --query "functionAppConfig.runtime"
