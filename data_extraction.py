@@ -30,7 +30,7 @@ def _compose_solution(summary: str, steps_json: str, fallback: str) -> str:
     steps = []
     try:
         steps = json.loads(steps_json or "[]")
-        if isinstance(steps, dict):  # in case it's a dict accidentally
+        if isinstance(steps, dict):  # in case it's a dict accidentally.
             steps = list(steps.values())
     except Exception:
         steps = []
