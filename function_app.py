@@ -2,7 +2,7 @@
 import json
 import azure.functions as func
 
-import test_search as TS  # <-- your file
+import test_search as TS  # 
 
 app = func.FunctionApp()
 
