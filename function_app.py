@@ -12,7 +12,7 @@ def hello(req: func.HttpRequest) -> func.HttpResponse:
     name = req.params.get("name", "world")
     return func.HttpResponse(f"Hello, {name}!", status_code=200)
 
-# Train once (don’t use the long-running "watch" mode on Azure...)
+# Train once (don’t use the long-running "watch" mode on Azure)
 @app.route(route="train", methods=["GET", "POST"], auth_level=func.AuthLevel.FUNCTION)
 def train_http(req: func.HttpRequest) -> func.HttpResponse:
     try:
