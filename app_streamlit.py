@@ -6,7 +6,7 @@ import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Optional OpenAI rewrite
+# Optional OpenAI rewriting
 USE_OPENAI = False
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 if (os.getenv("OPENAI_API_KEY") or os.getenv("AZURE_OPENAI_API_KEY")):
