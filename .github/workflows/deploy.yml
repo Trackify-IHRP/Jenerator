@@ -23,7 +23,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --only-binary=:all: -r requirements.txt --target=".python_packages/lib/site-packages"
+          # install into .python_packages
+          pip install -r requirements.txt --target ".python_packages/lib/site-packages"
+          # fail fast if azure.functions is missing
+          test -d .python_packages/lib/site-packages/azure/functions || (echo "azure.functions missing!" && exit 1)
 
       # 👇 Debug step to check packaging layout
       - name: Verify package layout
@@ -34,6 +37,23 @@ jobs:
           echo "===== HOST.JSON CONTENT ====="
           cat host.json
           echo "============================="
+
+      # 👇 NEW: create a minimal deployment package
+      - name: Create deployment package
+        run: |
+          mkdir package
+          cp host.json package/
+          cp function_app.py package/
+          cp -r .python_packages package/
+          # include other code files your functions import
+          cp config.py package/ || true
+          cp retriever.py package/ || true
+          cp data_extraction.py package/ || true
+          cp test_search.py package/ || true
+          # archive
+          cd package
+          zip -r ../app.zip .
+          cd ..
 
       - name: Azure login (OIDC)
         uses: azure/login@v2
@@ -46,5 +66,5 @@ jobs:
         uses: Azure/functions-action@v1
         with:
           app-name: jenerator
-          package: .
+          package: app.zip
           sku: flexconsumption
