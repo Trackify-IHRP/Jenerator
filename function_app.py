@@ -1,18 +1,24 @@
-# function_app.py
 import json
 import azure.functions as func
 
-import test_search as TS  # 
+import test_search as TS
 
 app = func.FunctionApp()
 
+# ---------------------------
 # Health check
+# ---------------------------
+@app.function_name(name="hello")
 @app.route(route="hello", auth_level=func.AuthLevel.ANONYMOUS)
 def hello(req: func.HttpRequest) -> func.HttpResponse:
     name = req.params.get("name", "world")
     return func.HttpResponse(f"Hello, {name}!", status_code=200)
 
-# Train once (don’t use the long-running "watch" mode on Azure)
+
+# ---------------------------
+# Train once (don’t use watch mode on Azure)
+# ---------------------------
+@app.function_name(name="train")
 @app.route(route="train", methods=["GET", "POST"], auth_level=func.AuthLevel.FUNCTION)
 def train_http(req: func.HttpRequest) -> func.HttpResponse:
     try:
@@ -26,7 +32,11 @@ def train_http(req: func.HttpRequest) -> func.HttpResponse:
     except Exception as e:
         return func.HttpResponse(str(e), status_code=500)
 
+
+# ---------------------------
 # Search/query endpoint
+# ---------------------------
+@app.function_name(name="search")
 @app.route(route="search", methods=["GET", "POST"], auth_level=func.AuthLevel.FUNCTION)
 def search_http(req: func.HttpRequest) -> func.HttpResponse:
     try:
@@ -44,11 +54,11 @@ def search_http(req: func.HttpRequest) -> func.HttpResponse:
         if not query:
             return func.HttpResponse("Missing 'query'.", status_code=400)
 
-        # Build retriever like test_search.cmd_query Export-AzResourceGroup -ResourceGroupName jenerator_group -Resource /subscriptions/48661f75-808e-4247-8abc-a0eb8061f568/resourceGroups/jenerator_group/providers/Microsoft.Web/sites/jenerator
-
+        # Build retriever like test_search.cmd_query
         df = TS.load_kb()
         retriever = TS.HybridRetriever(df)
         idx_path = TS.OUT_DIR / "hybrid.index"
+
         if hasattr(retriever, "load") and idx_path.exists():
             try:
                 retriever.load(str(idx_path))  # type: ignore
