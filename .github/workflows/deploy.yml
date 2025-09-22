@@ -25,6 +25,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install --only-binary=:all: -r requirements.txt --target=".python_packages/lib/site-packages"
 
+      # 👇 Debug step to check packaging layout
+      - name: Verify package layout
+        run: |
+          echo "===== PACKAGE LAYOUT ====="
+          ls -R
+          echo "=========================="
+          echo "===== HOST.JSON CONTENT ====="
+          cat host.json
+          echo "============================="
+
       - name: Azure login (OIDC)
         uses: azure/login@v2
         with:
