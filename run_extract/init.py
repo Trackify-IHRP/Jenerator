@@ -1,10 +1,17 @@
-import sys, subprocess, json, tempfile
-from pathlib import Path
-ROOT = Path(__file__).resolve().parents[1]
-PY = sys.executable
- 
-def main(_: str) -> list:
-    tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".json").name
-    subprocess.check_call([PY, str(ROOT / "data_extraction.py"), "--new-only", "--out", tmp], cwd=ROOT)
-    with open(tmp, "r", encoding="utf-8") as f:
-        return json.load(f)  # must be list[dict]
+import azure.functions as func
+import json
+import logging
+from . import main as run_extract_main
+
+def main(req: func.HttpRequest) -> func.HttpResponse:
+    logging.info("Processing run_extract")
+
+    try:
+        result = run_extract_main("_")   # no input needed
+        return func.HttpResponse(
+            json.dumps(result, ensure_ascii=False),
+            mimetype="application/json"
+        )
+    except Exception as e:
+        logging.error(str(e))
+        return func.HttpResponse(f"Error: {e}", status_code=500)
