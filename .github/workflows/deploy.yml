@@ -15,20 +15,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.12
+      - name: Set up Python 3.10   # 👈 match Azure
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # install into .python_packages
           pip install -r requirements.txt --target ".python_packages/lib/site-packages"
-          # fail fast if azure.functions is missing
+          # quick sanity check
           test -d .python_packages/lib/site-packages/azure/functions || (echo "azure.functions missing!" && exit 1)
 
-      # 👇 Debug step to check packaging layout
       - name: Verify package layout
         run: |
           echo "===== PACKAGE LAYOUT ====="
@@ -38,22 +36,15 @@ jobs:
           cat host.json
           echo "============================="
 
-      # 👇 NEW: create a minimal deployment package
       - name: Create deployment package
         run: |
           mkdir package
           cp host.json package/
           cp function_app.py package/
           cp -r .python_packages package/
-          # include other code files your functions import
           cp config.py package/ || true
           cp retriever.py package/ || true
-          cp data_extraction.py package/ || true
-          cp test_search.py package/ || true
-          # archive
-          cd package
-          zip -r ../app.zip .
-          cd ..
+          zip -r app.zip package
 
       - name: Azure login (OIDC)
         uses: azure/login@v2

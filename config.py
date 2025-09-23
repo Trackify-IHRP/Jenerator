@@ -34,7 +34,7 @@
 # --- INPUT FILES ---
 # Use your exact Excel path (supports .xlsx/.xlsm)
 # EXCEL_PATH = r"C:\Users\JumanaHASEEN\Institute for Human Resource Professionals LTD\IHRP-TRACKIFY\Trackify\issue_table.xlsm"
-EXCEL_PATH = r"C:\Users\JumanaHASEEN\Institute for Human Resource Professionals LTD\IHRP - TRACKIFY - Trackify\issue_table.xlsm"
+EXCEL_PATH = r"C:\Users\JumanaHASEEN\Institute for Human Resource Professionals LTD\IHRP - Digital and Technology - 36. Trackify\issue_table.xlsm"
 
 
 # SHEET NAMES (must match your Excel tabs exactly)
