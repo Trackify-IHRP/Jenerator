@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.10   # 👈 Flex officially supports 3.10
+      - name: Set up Python 3.10   # Flex officially supports 3.10
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -30,7 +30,7 @@ jobs:
       - name: Verify package layout
         run: |
           echo "===== PACKAGE LAYOUT BEFORE ZIP ====="
-          ls -R | head -n 50
+          ls -R | head -n 100
           echo "=========================="
           echo "===== HOST.JSON CONTENT ====="
           cat host.json
@@ -39,10 +39,12 @@ jobs:
       - name: Create deployment package
         run: |
           rm -f app.zip
-          zip -r app.zip host.json function_app.py test_search.py config.py retriever.py .python_packages
+          zip -r app.zip host.json requirements.txt \
+              run_hello run_extract run_main run_train \
+              main.py data_extraction.py test_search.py config.py retriever.py \
+              .python_packages
           echo "===== ZIP CONTENTS ====="
-          unzip -l app.zip | head -n 40
-          echo "========================"
+          unzip -l app.zip | head -n 100
 
       - name: Azure login (OIDC)
         uses: azure/login@v2
